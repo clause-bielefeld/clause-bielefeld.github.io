@@ -5,8 +5,8 @@
 layout: home
 ---
 
-<img style="float: right;" src="/assets/logo-draft2.png">
+<img style="float: right;" src="/assets/logo-clause.png">
 
-### CLAUSE - Computational Models of LAnguage USE
+### Computational Models of Language Use
 
 We are the NLP group at Friedrich-Schiller-University Jena! We work on computational models of language generation & understanding and on developing machines that use language as flexibly and smoothly as humans do.

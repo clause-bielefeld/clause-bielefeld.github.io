@@ -4,7 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-Zhese are the topics for bachelor and master theses we currently offer. 
+These are the topics for bachelor and master theses we currently offer. 
 Feel free to contact us if you are interested!
 
 ______

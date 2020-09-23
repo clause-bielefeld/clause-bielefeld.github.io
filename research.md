@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 Our research focus is on building well-performing computational models which use language 
-to perform various tasks on a human-like level. This includes multimodal activites like combining
+to perform various tasks on a human-like level. This includes multimodal activities like combining
 computer vision and language in form of spoken words or written text. If you are interested 
 in our research find our publications and activites listed below or feel free to contact ous 
 for any kind of cooperation!

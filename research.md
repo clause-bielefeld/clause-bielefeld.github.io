@@ -1,24 +1,29 @@
 ---
 layout: page
-title: Students
-permalink: /students/
+title: Research
+permalink: /research/
 ---
 
-Zhese are the topics for bachelor and master theses we currently offer. 
-Feel free to contact us if you are interested!
+Our research focus is on building well-performing computational models which use language 
+to perform various tasks on a human-like level. This includes multimodal activites like combining
+computer vision and language in form of spoken words or written text. If you are interested 
+in our research find our publications and activites listed below or feel free to contact ous 
+for any kind of cooperation!
 
 ______
 
 <br/><br/>
 
-# Bachelor Topics
+# Publications
 
+<!-- 
 ### Image2Latex: Transferring Images into LaTex Code using Deep Learning Methods
 __Resources__: 
 - https://arxiv.org/abs/1908.11415 
 - https://mathpix.com/ 
 
 __Contact__: sina.zarrieß@uni-jena.de 
+-->
 
 <br/><br/>
 
@@ -28,14 +33,16 @@ ______
 
 <br/><br/>
 
-# Master Topics
+# Conferences 
 
+<!--
 ### Image2Latex: Transferring Images into LaTex Code using Deep Learning Methods
 __Resources__: 
 - https://arxiv.org/abs/1908.11415
 - https://mathpix.com/
 
 __Contact__: sina.zarrieß@uni-jena.de 
+-->
 
 <br/><br/>
 

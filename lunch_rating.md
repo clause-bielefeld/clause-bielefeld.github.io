@@ -5,7 +5,7 @@ Feel free to add **suggestions**, **comments** and **ratings**(1-10)!
 
 | Restaurant 	|| Sina  	| Simeon 	| Ronja 	| Henrik 	|
 |------------	|-|-------	|--------	|-------	|--------	|
-| Istanbul   	||       	|        	|       	|        	|
+| Istanbul   	||       	|        	|       	|      6  	|
 | VietFresh  	||       	|        	|       	|        	|
 | Kolobok    	||       	|        	|       	|        	|
 

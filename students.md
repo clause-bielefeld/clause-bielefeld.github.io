@@ -13,12 +13,14 @@ ______
 
 # Bachelor Topics
 
+<!-- 
 ### Image2Latex: Transferring Images into LaTex Code using Deep Learning Methods
 __Resources__: 
 - https://arxiv.org/abs/1908.11415 
 - https://mathpix.com/ 
 
 __Contact__: sina.zarrieß@uni-jena.de 
+-->
 
 <br/><br/>
 
@@ -30,12 +32,14 @@ ______
 
 # Master Topics
 
+<!-- 
 ### Image2Latex: Transferring Images into LaTex Code using Deep Learning Methods
 __Resources__: 
 - https://arxiv.org/abs/1908.11415
 - https://mathpix.com/
 
 __Contact__: sina.zarrieß@uni-jena.de 
+-->
 
 <br/><br/>
 

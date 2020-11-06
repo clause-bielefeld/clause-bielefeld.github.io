@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: right;" src="/assets/logo.svg">
+<img style="float: right;" src="/assets/logo.svg" style="width:80%;">
 
 ### Computational Models of Language Use
 

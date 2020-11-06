@@ -8,7 +8,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right;" src="/assets/profilesina.jpg">
+<img style="float: right; width: 227px;" src="/assets/profilesina.jpg">
   Sina Zarrieß  
   Head of the group  
 
@@ -21,7 +21,7 @@ ______
 ______
 
 
-<img style="float: right;" src="/assets/simeon.jpg">
+<img style="float: right; width: 227px;" src="/assets/simeon.jpg">
   Simeon Schüz  
   Researcher  
 

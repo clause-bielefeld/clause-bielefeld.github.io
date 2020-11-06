@@ -20,6 +20,7 @@ ______
 
 ______
 
+<br/><br/>
 
 <img style="float: right; width: 227px;" src="/assets/simeon.jpg">
   Simeon Schüz  

@@ -21,7 +21,7 @@ ______
 ______
 
 
-<!-- <img style="float: right;" src="/assets/profilesina.jpg"> -->
+<img style="float: right;" src="/assets/simeon.jpg">
   Simeon Schüz  
   Researcher  
 

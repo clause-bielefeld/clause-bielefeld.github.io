@@ -5,11 +5,16 @@
 layout: home
 ---
 
-<img style="float: right;" src="/assets/logo.svg" width=80%>
+<img style="margin-left: auto; margin-right: auto;" src="/assets/logo.svg" width=80%>
 
 ### Computational Models of Language Use
 
-We are the NLP group at Friedrich-Schiller-University Jena! We work on computational models of language generation & understanding and on developing machines that use language as flexibly and smoothly as humans do.
+Welcome to our group website! We work on computational models of language generation & understanding and on developing machines that use language as flexibly and smoothly as humans do.
+
+<img style="margin-left: auto; margin-right: auto;" src="/assets/jena-web.jpg" width=40%>
+
+We are located at the Friedrich Schiller University in Jena. 
+
 
 ### News
 

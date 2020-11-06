@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: right;" src="/assets/logo-clause.png">
+<img style="float: right;" src="/assets/logo.svg">
 
 ### Computational Models of Language Use
 

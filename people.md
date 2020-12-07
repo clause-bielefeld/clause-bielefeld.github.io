@@ -49,7 +49,7 @@ ______
 <br/><br/>
 
 
-<img style="float: right; width: 227px; src="/assets/henrik.jpg"> 
+<img style="float: right; width: 227px;" src="/assets/henrik.jpg"> 
   Henrik Voigt  
   Researcher  
 

@@ -49,12 +49,16 @@ ______
 <br/><br/>
 
 
-<!-- <img style="float: right;" src="/assets/profilesina.jpg"> -->
+<img style="float: right;" src="/assets/henrik.jpg"> 
   Henrik Voigt  
   Researcher  
 
-  __Office__: 3235  
-  __Phone__:     
+  __Office__: 3235    
   __Email__: henrik *dot* voigt *at* uni-jena *dot* de  
+  <br/>
+  __Interests__: 
+  I am working on modelling interactions between human beings and artificial agents in visually augmented and virtual environments. 
+  My research interest focuses on combining the fields of Natural Langage Processing and Visualization through gamified user experiences 
+  that leverage education, immersive analytics and visual storytelling. 
 
 <br/><br/>

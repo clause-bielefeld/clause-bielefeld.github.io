@@ -62,4 +62,14 @@ ______
   that leverage education, immersive analytics and visual storytelling. 
 
 <br/><br/>
-abc
+
+  Bastian Bunzeck  
+  Student Research Assistant
+
+  __Office__: 3235    
+  __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
+  <br/>
+  __Interests__: 
+  I am interested in novel, computational approaches to research questions that the Humanities classically answer through introspective methods. 
+  My main areas of study and research in these *Digital Humanities* are the (quite disparate) fields of digital literary criticism and cognitive linguistics.
+<br/><br/>

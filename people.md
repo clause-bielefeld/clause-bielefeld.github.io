@@ -66,7 +66,7 @@ ______
   Bastian Bunzeck  
   Student Research Assistant
 
-  __Office__: 3235    
+  (__Office__: 3235)    
   __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
   <br/>
   __Interests__: 

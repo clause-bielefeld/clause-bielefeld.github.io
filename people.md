@@ -70,6 +70,6 @@ ______
   __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
   <br/>
   __Interests__: 
-  I am interested in novel, computational approaches to research questions that the Humanities classically answer through introspective methods. 
-  My main areas of study and research in these *Digital Humanities* range from digital literary criticism to cognitive and usage-based linguistics.
+  I am interested in novel, computational approaches to questions classically answered in the Humanities through introspective methods. 
+  My interests in these *Digital Humanities* range from digital literary criticism to cognitive and usage-based linguistics.
 <br/><br/>

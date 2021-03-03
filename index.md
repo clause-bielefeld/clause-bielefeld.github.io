@@ -11,7 +11,7 @@ Welcome to the website of the **Computational Linguistics Group** in Bielefeld.
 <img style="margin-left: auto; margin-right: auto; width: 50%" src="/assets/logo.svg" width="400">
 
 
-We work on natural language processing, language generation & understanding. We would like to develop machines that use language as flexibly and smoothly as humans do. This is why we are particularly interested in **c**omputational modeling of **la**nguage **use**, visual language grounding, reference, pragmatics and dialogue.
+Generally, we work on natural language processing and on learning models for language generation & understanding from data. We would like to develop machines that use language as flexibly and smoothly as humans do. This is why we are particularly interested in **c**omputational modeling of **la**nguage **use**, visual language grounding, reference, pragmatics and dialogue.
 
 
 <!--

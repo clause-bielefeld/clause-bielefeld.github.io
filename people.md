@@ -66,18 +66,18 @@ ______
   that leverage education, immersive analytics and visual storytelling. 
 
 <br/><br/>
+
 ______
 
 <br/><br/>
 
-Nazia Attari  
+  Nazia Attari  
   Researcher  
 
   __Office__:     
   __Email__:   
   <br/>
   __Interests__: 
-  
 
 <br/><br/>
 
@@ -85,13 +85,15 @@ ______
 
 <br/><br/>
 
-Clara Lachenmaier  
+  Clara Lachenmaier  
   Researcher  
 
   __Office__:     
   __Email__:   
   <br/>
   __Interests__: 
+ 
+<br/><br/>
   
 ______  
 
@@ -103,4 +105,15 @@ ______
   <br/>
   __Interests__: 
   I am interested in novel, computational approaches to questions in linguistics and literary criticism.
+  
+<br/><br/>
+
+______  
+
+  Florian Steig  
+  Student Research Assistant
+
+  __Interests__: 
+  I am interested in novel, computational approaches to questions in linguistics and literary criticism.
+  
 <br/><br/>

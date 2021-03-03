@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CLAUSE
-email: sina.zarriess@uni-jena.de
-description: Computational Models of LAnguage USE >- # this means to ignore newlines until "baseurl:"
-url: "https://clause-jena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+email: sina.zarriess@uni-bielefeld.de
+description: Computational Linguistics Group Bielefeld >- # this means to ignore newlines until "baseurl:"
+url: "https://clause-bielefeld.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

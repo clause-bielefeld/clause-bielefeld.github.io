@@ -4,17 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-Our research focus is on building well-performing computational models which use language 
-to perform various tasks on a human-like level. This includes multimodal activities like combining
-computer vision and language in form of spoken words or written text. If you are interested 
-in our research find our publications and activites listed below or feel free to contact ous 
-for any kind of cooperation!
-
-______
-
-<br/><br/>
-
-# Publications
+Some recent and representative publications by people in our group:
+* [Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms.](https://www.aclweb.org/anthology/2020.acl-main.584/) ACL 2020.
+* [Humans Meet Models on Object Naming: A New Dataset and Analysis.](https://www.aclweb.org/anthology/2020.coling-main.172/) COLING 2020.
+* [From “Before” to “After”: Generating Natural Language Instructions from Image Pairs in a Simple Visual Domain](https://www.aclweb.org/anthology/2020.inlg-1.38/)
 
 <!-- 
 ### Image2Latex: Transferring Images into LaTex Code using Deep Learning Methods
@@ -25,15 +18,14 @@ __Resources__:
 __Contact__: sina.zarrieß@uni-jena.de 
 -->
 
-<br/><br/>
-
-______
-
 ______
 
 <br/><br/>
 
-# Conferences 
+# Resources
+
+* Code and data on colour classification in Visual Genome: [github](https://github.com/clause-bielefeld/colour-term-grounding)
+* ManyNames: a dataset for object naming in real-world images [github](https://github.com/amore-upf/manynames)
 
 <!--
 ### Image2Latex: Transferring Images into LaTex Code using Deep Learning Methods

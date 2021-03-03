@@ -28,6 +28,9 @@ This is a photo from the past of CLAUSE. Once, we were located at the Friedrich 
 
 <span style="color:gray">Updated on 03-March-2021</span>
 
+<br/><br/>
+
+
 # News
 
 * 3 Mar 2021: 2 EACL workshop papers accepted: Ronja @[LANTERN](https://www.lantern.uni-saarland.de/2021/), Henrik @[HCI+NLP](https://sites.google.com/view/hciandnlp/home)

@@ -9,7 +9,7 @@ layout: home
 
 # Computational Models of Language Use
 
-<span style="font-size:4em;"> Welcome to our group website! We are computational linguists, in Bielefeld. We work on computational models of language generation & understanding and on developing machines that use language as flexibly and smoothly as humans do.</span>
+<span style="font-size:2em;"> Welcome to our group website! We are computational linguists, in Bielefeld. We work on computational models of language generation & understanding and on developing machines that use language as flexibly and smoothly as humans do.</span>
 
 <img style="margin-left: auto; margin-right: auto; width: 80%;" src="/assets/jena-web.jpg" width="400">
 

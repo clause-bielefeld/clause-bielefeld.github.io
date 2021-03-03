@@ -13,7 +13,7 @@ ______
 
 ## Ongoing Theses
 
-* Kiara Abad Abruzzo: *Exploring RNNs for syllable learning in bilinguals"
+* Kiara Abad Abruzzo: *Exploring Autoencoders for syllable learning in bilinguals*
 * Bianca Buff: *Analyzing pragmatic factors in the use of colour attributes in image captioning data*
 * Felix Juch: *Verknüpfen von Tweets mit Wissensdatenbanken zur Analyse von Gefahrenereignissen* (1st supervisor: Jens Kersten)
 * Reda Ihtassine: *Exploring Sentiment Analysis for Evolving Discussions on Social Media*

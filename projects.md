@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /resources/
+permalink: /projects/
 ---
 
 ### INAS (starting soon, duration: 3 years)

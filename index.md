@@ -11,14 +11,17 @@ layout: home
 
 ... to the website of the **Computational Linguistics Group** in Bielefeld. 
 
-We work on computational models of language generation & understanding. We would like to develop machines that use language as flexibly and smoothly as humans do. This is why we are particularly interested in modeling *language use*, visual language grounding, reference, pragmatics and dialogue. This is our logo:
 
-<img style="margin-left: auto; margin-right: auto; width: 50%" src="/assets/logo.svg" width="800">
+<img style="margin-left: auto; margin-right: auto; width: 20%" src="/assets/logo.svg" width="400">
+We work on computational models of language generation & understanding. We would like to develop machines that use language as flexibly and smoothly as humans do. This is why we are particularly interested in modeling *language use*, visual language grounding, reference, pragmatics and dialogue.
+
 
 <!--
 <img style="margin-left: auto; margin-right: auto; width: 80%;" src="/assets/jena-web.jpg" width="400">
 This is a photo from the past of CLAUSE. Once, we were located at the Friedrich Schiller University in Jena. We have now moved to Uni Bielefeld. We will update the photo as soon as the first group hike into Teutoburger Wald has taken place. 
 -->
+
+<br/><br/>
 
 # Open positions
 

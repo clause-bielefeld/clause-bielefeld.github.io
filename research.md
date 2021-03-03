@@ -18,9 +18,6 @@ __Resources__:
 __Contact__: sina.zarrieß@uni-jena.de 
 -->
 
-______
-
-<br/><br/>
 
 # Resources
 
@@ -36,6 +33,4 @@ __Resources__:
 __Contact__: sina.zarrieß@uni-jena.de 
 -->
 
-<br/><br/>
 
-______

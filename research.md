@@ -19,7 +19,7 @@ __Contact__: sina.zarrieß@uni-jena.de
 -->
 
 
-# Resources
+## Resources
 
 * Code and data on colour classification in Visual Genome: [github](https://github.com/clause-bielefeld/colour-term-grounding)
 * ManyNames: We were very happy to collaborate with the [AMORE](https://www.upf.edu/web/amore) group for the collection of this dataset for object naming in real-world images [github](https://github.com/amore-upf/manynames)

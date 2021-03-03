@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="margin-left: auto; margin-right: auto; width: 20%" src="/assets/logo.svg" width="800">
+<img style="margin-left: auto; margin-right: auto; width: 50%" src="/assets/logo.svg" width="800">
 
 # Computational Models of Language Use
 

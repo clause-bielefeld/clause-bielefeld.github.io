@@ -35,6 +35,8 @@ ______
 
 <br/><br/>
 
+______
+
 
 <!-- <img style="float: right;" src="/assets/profilesina.jpg"> -->
   Ronja Utescher  
@@ -47,6 +49,8 @@ ______
 -->
 
 <br/><br/>
+
+______
 
 
 <img style="float: right; width: 227px;" src="/assets/henrik.jpg"> 
@@ -62,6 +66,34 @@ ______
   that leverage education, immersive analytics and visual storytelling. 
 
 <br/><br/>
+______
+
+<br/><br/>
+
+Nazia Attari  
+  Researcher  
+
+  __Office__:     
+  __Email__:   
+  <br/>
+  __Interests__: 
+  
+
+<br/><br/>
+
+______
+
+<br/><br/>
+
+Clara Lachenmaier  
+  Researcher  
+
+  __Office__:     
+  __Email__:   
+  <br/>
+  __Interests__: 
+  
+______  
 
   Bastian Bunzeck  
   Student Research Assistant

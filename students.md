@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Students
+title: Student projects
 permalink: /students/
 ---
 
 These are bachelor and master theses that are currently running or have been recently complete.  
 Feel free to contact us if you are interested in doing a project or thesis on NLP/Computational Linguistics!
-
-______
 
 <br/><br/>
 
@@ -18,7 +16,6 @@ ______
 * Felix Juch: *Verknüpfen von Tweets mit Wissensdatenbanken zur Analyse von Gefahrenereignissen* (1st supervisor: Jens Kersten)
 * Reda Ihtassine: *Exploring Sentiment Analysis for Evolving Discussions on Social Media*
 
-______
 
 <br/><br/>
 
@@ -30,4 +27,3 @@ ______
 * Xuan Liu: *Modeling object-color dependencies with image captioning models* (MA 2021)
 * Lennart Austen: *Analyse referierender Ausdrücke in aufgabenorientierten Dialogen* (BA 2021)
 
-______

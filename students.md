@@ -11,7 +11,7 @@ Feel free to contact us if you are interested in doing a project or thesis on NL
 
 ## Ongoing Theses
 
-* Kiara Abad Abruzzo: *Exploring Autoencoders for syllable learning in bilinguals*
+* Kiara Abad Abruzzo: *Measuring the Perceptual Availability of Syllables During (Second) Language Acquisition Using Unsupervised Binary Stochastic Autoencoders*
 * Bianca Buff: *Analyzing pragmatic factors in the use of colour attributes in image captioning data*
 * Felix Juch: *Verknüpfen von Tweets mit Wissensdatenbanken zur Analyse von Gefahrenereignissen* (1st supervisor: Jens Kersten)
 * Reda Ihtassine: *Exploring Sentiment Analysis for Evolving Discussions on Social Media*

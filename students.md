@@ -4,7 +4,7 @@ title: Student projects
 permalink: /students/
 ---
 
-These are bachelor and master theses that are currently running or have been recently complete.  
+These are bachelor and master theses that are currently running or have been recently completed.  
 Feel free to contact us if you are interested in doing a project or thesis on NLP/Computational Linguistics!
 
 <br/><br/>

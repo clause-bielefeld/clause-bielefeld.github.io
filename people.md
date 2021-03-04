@@ -37,6 +37,7 @@ ______
 
 ______
 
+<br/><br/>
 
 <!-- <img style="float: right;" src="/assets/profilesina.jpg"> -->
   Ronja Utescher  
@@ -52,6 +53,7 @@ ______
 
 ______
 
+<br/><br/>
 
 <img style="float: right; width: 227px;" src="/assets/henrik.jpg"> 
   Henrik Voigt  
@@ -85,17 +87,20 @@ ______
 
 <br/><br/>
 
+<img style="float: right; width: 227px;" src="/assets/clara.jpg">
   Clara Lachenmaier  
   Researcher  
 
-  __Office__:     
-  __Email__:   
+  __Office__: 203 at [Institut für Germanistische Sprachwissenschaft](<https://www.google.com/maps/place/50%C2%B055'48.9%22N+11%C2%B035'02.6%22E/@50.930253,11.584047,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d50.930253!4d11.584047>)   
+  __Email__: clara *dot* lachenmaier *at* uni-jena *dot* de
   <br/>
-  __Interests__: 
- 
+  __Interests__: I am working on computational applications of Conversation Analysis.
+
 <br/><br/>
   
 ______  
+
+<br/><br/>
 
   Bastian Bunzeck  
   Student Research Assistant
@@ -109,6 +114,8 @@ ______
 <br/><br/>
 
 ______  
+
+<br/><br/>
 
   Florian Steig  
   Student Research Assistant

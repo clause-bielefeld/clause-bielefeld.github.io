@@ -101,11 +101,10 @@ ______
 ______  
 
 <br/><br/>
-
+<img style="float: right; width: 227px;" src="/assets/bastian.jpg">
   Bastian Bunzeck  
   Student Research Assistant
-
-  (__Office__: 3235)    
+  
   __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
   <br/>
   __Interests__: 

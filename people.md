@@ -101,7 +101,7 @@ ______
 ______  
 
 <br/><br/>
-<img style="float: right; width: 227px;" src="/assets/bastian.jpg">
+<img style="float: right; width: 227px;" src="/assets/bastian.jpeg">
 <br>
   Bastian Bunzeck  
   Student Research Assistant

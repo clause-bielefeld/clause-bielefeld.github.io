@@ -29,9 +29,9 @@ ______
   __Office__: 3240  
   __Email__: simeon *dot* schuez *at* uni-jena *dot* de  
   <br/>
-  __Interests__: 
-  I work on computational models for contextual influences in referring to visual objects. 
-  Apart from that, I'm interested in fields like vision & language, pragmatics and psycholinguistics. 
+  __Interests__:
+  I work on computational models for contextual influences in referring to visual objects.
+  Apart from that, I'm interested in fields like vision & language, pragmatics and psycholinguistics.
 
 <br/><br/>
 
@@ -43,7 +43,7 @@ ______
   Ronja Utescher  
   Researcher  
 
-<!-- 
+<!--
   __Office__: 3233  
   __Phone__: +49 3641 9 46470    
   __Email__: sina *dot* zarriess *at* uni-jena *dot* de  
@@ -55,17 +55,17 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/henrik.jpg"> 
+<img style="float: right; width: 227px;" src="/assets/henrik.jpg">
   Henrik Voigt  
   Researcher  
 
   __Office__: 3235    
   __Email__: henrik *dot* voigt *at* uni-jena *dot* de  
   <br/>
-  __Interests__: 
-  I am working on modelling interactions between human beings and artificial agents in visually augmented and virtual environments. 
-  My research interest focuses on combining the fields of Natural Langage Processing and Visualization through gamified user experiences 
-  that leverage education, immersive analytics and visual storytelling. 
+  __Interests__:
+  I am working on modelling interactions between human beings and artificial agents in visually augmented and virtual environments.
+  My research interest focuses on combining the fields of Natural Langage Processing and Visualization through gamified user experiences
+  that leverage education, immersive analytics and visual storytelling.
 
 <br/><br/>
 
@@ -73,13 +73,15 @@ ______
 
 <br/><br/>
 
+<img style="float: right; width: 227px;" src="/assets/nazia.jpg">
   Nazia Attari  
   Researcher  
 
-  __Office__:     
-  __Email__:   
+  __Office__: CITEC-1-231     
+  __Email__: nattari *dot* techfak *dot* uni-bielefeld *dot* de   
   <br/>
-  __Interests__: 
+  __Interests__:
+  My current research explores the generation of natural language explanations in the domain of concept learning. These explanations can also be treated as concept definition as these are derived from a group of exemplars. I am broadly interested in the  intersection of natural language and vision, and explainability of machine learning models.
 
 <br/><br/>
 
@@ -97,7 +99,7 @@ ______
   __Interests__: I am working on computational applications of Conversation Analysis.
 
 <br/><br/>
-  
+
 ______  
 
 <br/><br/>
@@ -105,12 +107,12 @@ ______
 <br>
   Bastian Bunzeck  
   Student Research Assistant
-  
+
   __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
   <br/>
-  __Interests__: 
+  __Interests__:
   I am interested in novel, computational approaches to questions in linguistics and literary criticism.
-  
+
 <br/><br/>
 
 ______  
@@ -120,7 +122,7 @@ ______
   Florian Steig  
   Student Research Assistant
 
-  __Interests__: 
+  __Interests__:
   I am interested in novel, computational approaches to questions in linguistics and literary criticism.
-  
+
 <br/><br/>

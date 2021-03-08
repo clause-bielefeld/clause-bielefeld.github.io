@@ -37,6 +37,8 @@ ______
 
 ______
 
+<br/><br/>
+
 <img style="float: right;" src="/assets/ronja.png">
   Ronja Utescher  
   Researcher  

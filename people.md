@@ -37,17 +37,15 @@ ______
 
 ______
 
-<br/><br/>
-
-<!-- <img style="float: right;" src="/assets/profilesina.jpg"> -->
+<img style="float: right;" src="/assets/ronja.png">
   Ronja Utescher  
   Researcher  
 
-<!--
-  __Office__: 3233  
-  __Phone__: +49 3641 9 46470    
-  __Email__: sina *dot* zarriess *at* uni-jena *dot* de  
--->
+  __Email__: ronja *dot* utescher *at* uni-jena *dot* de  
+  <br/>
+  __Interests__:
+  I am a member of the HistKI project, where I work on extracting (semi-)structured information from naturally occuring multi-modal documents.
+  Some of my other research interests include Visual Grounding, Computational Semantics and Vision & Language.
 
 <br/><br/>
 

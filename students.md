@@ -4,7 +4,8 @@ title: Students
 permalink: /students/
 ---
 
-These are bachelor and master theses that are currently running or have been recently completed.  
+These are bachelor and master theses that are currently running or have been recently completed. 
+Please also take note of our available supervisors and their respective topics of interest.
 Feel free to contact us if you are interested in doing a project or thesis on NLP/Computational Linguistics!
 
 <br/><br/>
@@ -27,3 +28,6 @@ Feel free to contact us if you are interested in doing a project or thesis on NL
 * Xuan Liu: *Modeling object-color dependencies with image captioning models* (MA 2021)
 * Lennart Austen: *Analyse referierender Ausdrücke in aufgabenorientierten Dialogen* (BA 2021)
 
+## Supervisors
+
+* [Ronja Utescher](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=298822497): *Language & Vision, Coreference Resolution, Multimodal Documents*

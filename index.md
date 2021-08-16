@@ -21,15 +21,6 @@ This is a photo from the past of CLAUSE. Once, we were located at the Friedrich 
 
 <br/><br/>
 
-# Open positions
-
-* **PostDoc position**: We are currently looking for a PostDoc to join our group. Official announcement will follow soon.
-* **PhD position**: We are currently looking for a PhD to join our group. The position is part of a DFG project on interactive argumentation support. Official announcement will follow soon.
-
-<span style="color:gray">Updated on 03-March-2021</span>
-
-<br/><br/>
-
 
 # News
 

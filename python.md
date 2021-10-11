@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python - Installation & Getting Started
-permalink: /python/
+permalink: teaching/python/
 ---
 
 

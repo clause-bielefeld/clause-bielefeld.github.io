@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title: Python - Installation & Getting Started
 permalink: teaching/python/
 ---

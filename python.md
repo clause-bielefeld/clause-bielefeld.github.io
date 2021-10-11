@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Python
 permalink: teaching/python/
 ---
 

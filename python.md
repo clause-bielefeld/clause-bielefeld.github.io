@@ -95,15 +95,15 @@ As a more compact alternative to absolute paths, *relative* paths can be used. Y
 
 Finally, calling the Python interpreter itself (the python.exe) can be simplified significantly. If the environment variable *PATH* contains the path to the directory where python.exe is located in, the Python interpreter can be run in PowerShell as easy as using the command `python` (instead of the absolute or relative path to python.exe). In some cases this is done automatically when installing Anaconda. If the interpreter does not start if `python` is run, you can follow the steps below to add the Python directory to the *PATH* variable:
 
-1. in the Explorer, go to the directory where python.exe was installed (e.g. `C:\Users\YourName\anaconda3`, **without** the file name "python.exe")
-2. right click at the address bar in the Explorer and copy the address
-3. right click on "Computer" on the left side
-4. right click on "Advanced System Settings"
+1. in the Explorer (where you can see folders and files), go to the directory where python.exe was installed
+2. right click at the address bar on the top of the Explorer window and copy the address (e.g. `C:\Users\YourName\anaconda3`, **without** the file name "python.exe")
+3. right click on "Computer" on the left side, click on "Settings"
+4. click on "Advanced System Settings" (on the right)
 5. click on "Environment variables"
-6. select variable "Path" (or "PATH") in "System variables" and click on "Edit"
-7. click on "New"
-8. paste the address that was copied in step 2
-9. confirm and move the added path to the top
+6. select variable "Path" (or "PATH") in "User variables" and click on "Edit"
+7. click on "New" and paste the address that was copied in step 2
+8. press Enter and move the added path to the top
+9. confirm
 
 If those steps are successful, the Python interpreter can be started in interactive mode by using the PowerShell command `python`.
 A Python script in the same folder can be run using the command `python .\test.py` (where "test.py" must be replaced by the respective name of the script).

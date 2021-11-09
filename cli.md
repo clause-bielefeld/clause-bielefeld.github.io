@@ -6,7 +6,7 @@ permalink: teaching/cli/
 
 # Using the (Unix) Command Line
 
-## Prompts and Commands
+## Anatomy of Prompts and Commands
 
 
 If you open up your command line interpreter (e.g. some kind of terminal on Linux/MacOS, or Cygwin on Windows), you are greeted with the "command prompt". This indicates that the interpreter is ready to accept commands.
@@ -37,7 +37,7 @@ The individual components are:
 The kind of options and parameters you can (or have to) set depend on the respective command. Most commands have a `--help` option, which outputs a brief documentation about how the respective command can be used:
   - e.g. `ls --help` calls the documentation for the `ls` command
 
-## Commands
+## Useful Commands
 - `ls` : list files and subdirectories in the current directory
 - `mkdir` : create a new directory
   - `mkdir MyDocuments` : create the directory "MyDocuments" within the current working directory
@@ -51,7 +51,7 @@ The kind of options and parameters you can (or have to) set depend on the respec
 - `uniq` : filter out repeated lines in a file
 - `wc`: count words, lines and bytes
 
-## Outputs
+## (Redirecting) Outputs
 
 Many commands (e.g. `cat`, `ls`, `tr`, ...) result in some kind of output which is shown in the command line (e.g. the files and subdirectories in the current directory when `ls` is executed). This output can be redirected in two ways: a) it can be written in a text file instead of being displayed in the command line, or b) it can be passed on directly to a subsequent command.
   - To write the output to a file: add `> filename.txt` after the command

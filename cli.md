@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Command Line
+title: Teaching / Command Line
 permalink: teaching/cli/
 ---
 

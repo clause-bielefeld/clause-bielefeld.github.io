@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python
+title: Teaching / Python
 permalink: teaching/python/
 ---
 

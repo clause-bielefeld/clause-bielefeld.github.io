@@ -9,6 +9,7 @@ permalink: /research/
 Recent publications by people in our group:
 * [Decoupling Pragmatics: Discriminative Decoding for Referring Expression Generation](https://aclanthology.org/2021.reinact-1.7/). ReInAct 2021.
 * [Decoding, Fast and Slow: A Case Study on Balancing Trade-Offs in Incremental, Character-level Pragmatic Reasoning.](https://aclanthology.org/2021.inlg-1.41/) INLG 2021.
+* [Decoding Methods in Neural Language Generation: A Survey.](https://www.mdpi.com/2078-2489/12/9/355) Information 12(9), 355.
 * [Diversity as a By-Product: Goal-oriented Language Generation Leads to Linguistic Variation.](https://aclanthology.org/2021.sigdial-1.43/) SIGDIAL 2021.
 * [Challenges in Designing Natural Language Interfaces for Complex Visual Models.](https://aclanthology.org/2021.hcinlp-1.11/) HCINLP @ EACL 2021.
 * [What Did This Castle Look like before? Exploring Referential Relations in Naturally Occurring Multimodal Texts.](https://aclanthology.org/2021.lantern-1.5/) LANTERN @ EACL 2021.

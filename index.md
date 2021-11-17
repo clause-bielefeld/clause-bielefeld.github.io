@@ -25,10 +25,10 @@ This is a photo from the past of CLAUSE. Once, we were located at the Friedrich 
 # News
 
 * 01 Oct 2021: We are delighted to welcome Özge Alaçam as a new postdoc to our group!
-* 10 Sep 2021: [Paper](https://aclanthology.org/2021.reinact-1.7/) accepted: Simeon & Sina @[ReInAct](https://sites.google.com/view/reinact2021)
-* 26 Jul 2021: [Paper](https://aclanthology.org/2021.inlg-1.41/) accepted: Sina & Simeon with Hendrik Buschmeier and Ting Han @[INLG](https://inlg2021.github.io/)
-* 26 May 2021: [Paper](https://aclanthology.org/2021.sigdial-1.43/) accepted: Simeon & Sina with Ting Han @[SIGDIAL](https://www.sigdial.org/files/workshops/conference22/)
-* 3 Mar 2021: 2 EACL workshop papers accepted: Ronja @[LANTERN](https://www.lantern.uni-saarland.de/2021/), Henrik @[HCI+NLP](https://sites.google.com/view/hciandnlp/home)
+* 10 Sep 2021: Paper accepted: [Simeon & Sina](https://aclanthology.org/2021.reinact-1.7/) @[ReInAct](https://sites.google.com/view/reinact2021)
+* 26 Jul 2021: Paper accepted: [Sina & Simeon with Hendrik Buschmeier and Ting Han](https://aclanthology.org/2021.inlg-1.41/) @[INLG](https://inlg2021.github.io/)
+* 26 May 2021: Paper accepted: [Simeon & Sina with Ting Han](https://aclanthology.org/2021.sigdial-1.43/) @[SIGDIAL](https://www.sigdial.org/files/workshops/conference22/)
+* 3 Mar 2021: 2 EACL workshop papers accepted: [Ronja](https://aclanthology.org/2021.lantern-1.5/) @[LANTERN](https://www.lantern.uni-saarland.de/2021/), [Henrik](https://aclanthology.org/2021.hcinlp-1.11/) @[HCI+NLP](https://sites.google.com/view/hciandnlp/home)
 * 15 Feb 2021: Sina is co-chairing [IWCS 2021](https://iwcs2021.github.io/) with Johan, Rik, Lasha
 * 9 Feb 2021: Today is the Kick-off of our HistKI project (with Sander Münster @Uni Jena, Florian Niebling @Uni Würzburg, Stephan Hoppe @LMU) where Ronja will develop L&V models for applications in Digital Humanities.
 * 1 Feb 2021: Sina is appointed professor for Computational Linguistics @[Uni Bielefeld](https://www.uni-bielefeld.de/)

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Teaching / Python
+title: Getting started with Python and Anaconda
 permalink: teaching/python/
 ---
 
 
-# Getting started with Python and Anaconda
-
 We mainly rely on Python as a programming language for both research and teaching.
 This page is intended to provide a (brief) overview of how to install Python, and some ways to write and run Python code.
 
-On this page you can find information on: 
+On this page you can find information on:
 1. Installing Python via the Anaconda distribution
 2. Different ways to use Python (interactive mode, scripts, notebooks)
 3. Using Python via the command line on Windows

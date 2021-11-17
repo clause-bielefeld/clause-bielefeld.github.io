@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Teaching / Command Line
+title: Using the (Unix) Command Line
 permalink: teaching/cli/
 ---
-
-# Using the (Unix) Command Line
 
 ## Anatomy of Prompts and Commands
 

@@ -4,15 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-These are materials for courses that we teach:
+**General guidelines** for getting started with some of the tools we use in our lectures:
 
-<br/><br/>
+* [Using the (Unix) Command Line](/teaching/cli)
+* [Getting started with Python and Anaconda](/teaching/python)
 
-## Summer Term 2021
+**Materials** for courses that we teach:
 
-* [Reinforcement Learning in der Sprachtechnologie](https://github.com/clause-bielefeld/SS_2021_SEMINAR_Reinforcement_Learning_in_der_Sprachtechnologie)
+* Summer Term 2021
 
-
-<br/><br/>
-
-
+  * [Reinforcement Learning in der Sprachtechnologie](https://github.com/clause-bielefeld/SS_2021_SEMINAR_Reinforcement_Learning_in_der_Sprachtechnologie)

@@ -4,7 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-These are bachelor and master theses that are currently running or have been recently completed. 
+These are bachelor and master theses that are currently running or have been recently completed.
 Please also take note of our available supervisors and their respective topics of interest.
 Feel free to contact us if you are interested in doing a project or thesis on NLP/Computational Linguistics!
 
@@ -31,3 +31,4 @@ Feel free to contact us if you are interested in doing a project or thesis on NL
 ## Supervisors
 
 * [Ronja Utescher](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=298822497): *Language & Vision, Coreference Resolution, Multimodal Documents*
+* [Simeon Schüz](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=103094637): *Language & Vision, Language Generation*

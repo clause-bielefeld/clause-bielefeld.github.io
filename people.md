@@ -14,7 +14,7 @@ ______
 
   __Office__: 3233  
   __Phone__: +49 3641 9 46470    
-  __Email__: sina *dot* zarriess *at* uni-jena *dot* de  
+  __Email__: sina *dot* zarriess *at* uni-bielefeld *dot* de  
 
 <br/><br/>
 
@@ -26,8 +26,8 @@ ______
   Simeon Schüz  
   Researcher  
 
-  __Office__: 3240  
-  __Email__: simeon *dot* schuez *at* uni-jena *dot* de  
+  __Office__: UHG C5-205  
+  __Email__: simeon *dot* schuez *at* uni-bielefeld *dot* de  
   <br/>
   __Interests__:
   I work on computational models for contextual influences in referring to visual objects.
@@ -43,7 +43,7 @@ ______
   Ronja Utescher  
   Researcher  
 
-  __Email__: ronja *dot* utescher *at* uni-jena *dot* de  
+  __Email__: r *dot* utescher *at* uni-bielefeld *dot* de  
   <br/>
   __Interests__:
   I am a member of the HistKI project, where I work on extracting (semi-)structured information from naturally occuring multi-modal documents.

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to the website of the **Computational Linguistics Group** in Bielefeld. 
+Welcome to the website of the **Computational Linguistics Group** in Bielefeld.
 
 
 <img style="margin-left: auto; margin-right: auto; width: 50%" src="/assets/logo.svg" width="400">
@@ -16,7 +16,7 @@ Generally, we work on natural language processing and on learning models for lan
 
 <!--
 <img style="margin-left: auto; margin-right: auto; width: 80%;" src="/assets/jena-web.jpg" width="400">
-This is a photo from the past of CLAUSE. Once, we were located at the Friedrich Schiller University in Jena. We have now moved to Uni Bielefeld. We will update the photo as soon as the first group hike into Teutoburger Wald has taken place. 
+This is a photo from the past of CLAUSE. Once, we were located at the Friedrich Schiller University in Jena. We have now moved to Uni Bielefeld. We will update the photo as soon as the first group hike into Teutoburger Wald has taken place.
 -->
 
 <br/><br/>
@@ -24,6 +24,10 @@ This is a photo from the past of CLAUSE. Once, we were located at the Friedrich 
 
 # News
 
+* 01 Oct 2021: We are delighted to welcome Özge Alaçam as a new postdoc to our group!
+* 10 Sep 2021: [Paper](https://aclanthology.org/2021.reinact-1.7/) accepted: Simeon & Sina @[ReInAct](https://sites.google.com/view/reinact2021)
+* 26 Jul 2021: [Paper](https://aclanthology.org/2021.inlg-1.41/) accepted: Sina & Simeon with Hendrik Buschmeier and Ting Han @[INLG](https://inlg2021.github.io/)
+* 26 May 2021: [Paper](https://aclanthology.org/2021.sigdial-1.43/) accepted: Simeon & Sina with Ting Han @[SIGDIAL](https://www.sigdial.org/files/workshops/conference22/)
 * 3 Mar 2021: 2 EACL workshop papers accepted: Ronja @[LANTERN](https://www.lantern.uni-saarland.de/2021/), Henrik @[HCI+NLP](https://sites.google.com/view/hciandnlp/home)
 * 15 Feb 2021: Sina is co-chairing [IWCS 2021](https://iwcs2021.github.io/) with Johan, Rik, Lasha
 * 9 Feb 2021: Today is the Kick-off of our HistKI project (with Sander Münster @Uni Jena, Florian Niebling @Uni Würzburg, Stephan Hoppe @LMU) where Ronja will develop L&V models for applications in Digital Humanities.
@@ -33,6 +37,6 @@ This is a photo from the past of CLAUSE. Once, we were located at the Friedrich 
 
 <!--
 ### News
-**23 Sep 2020**: 
+**23 Sep 2020**:
 -->
 <!-- This is a comment in markdown -->

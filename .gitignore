@@ -58,3 +58,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Jekyll stuff
+.bundle/
+_site/
+vendor/

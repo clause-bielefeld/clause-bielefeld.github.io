@@ -25,6 +25,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Navigation bar
+header_pages:
+  - index.md
+  - people.md
+  - research.md
+  - projects.md
+  - students.md
+  - teaching.md
 
 
 

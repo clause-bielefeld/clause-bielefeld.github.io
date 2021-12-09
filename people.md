@@ -22,7 +22,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/ozge_profil.jpg">
+<img style="float: right; width: 227px;" src="/assets/ozge_profil.png">
   Özge Alacam  
   Post-doctoral Researcher  
 

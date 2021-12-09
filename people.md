@@ -22,6 +22,23 @@ ______
 
 <br/><br/>
 
+<img style="float: right; width: 227px;" src="/assets/ozge_profil.jpg">
+  Özge Alacam  
+  Post-doctoral Researcher  
+
+  __Office__: UHG C5-205  <br>
+  __Email__: oezge *dot* alacam *at* uni-bielefeld *dot* de  
+
+  __Interests__:
+  Multimodal Hate Speech Detection,  Extraction of Speaker Intention, Multimodal Communication (Language, graphical representations and gesture), 
+  Human Computer Interaction, Eye-tracking methodology
+
+<br/><br/>
+
+______
+
+<br/><br/>
+
 <img style="float: right; width: 227px;" src="/assets/simeon.jpg">
   Simeon Schüz  
   Researcher  

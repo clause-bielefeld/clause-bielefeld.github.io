@@ -129,7 +129,7 @@ ______
   __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
 
   __Interests__:
-  I am interested in novel, computational approaches to questions in linguistics and literary criticism.
+  I am interested in computational approaches *to all things language*, from regular linguistic research to the Digital Humanities and beyond.
 
 <br/><br/>
 

@@ -121,6 +121,21 @@ ______
 ______  
 
 <br/><br/>
+
+<img style="float: right; width: 227px;" src="/assets/Sanne_ProfilePicture.jpg">
+  Sanne Hoeken  
+  Researcher  
+
+  __Office__: UHG C5-205  <br>
+  __Email__: sanne *dot* hoeken *at* uni-bielefeld *dot* de
+
+  __Interests__: I work on longitudinal analysis of change and variety in natural language data as part of the [SAIL](<https://jaii.eu/sail/#r1.ling>) project.
+
+<br/><br/>
+
+______  
+
+<br/><br/>
 <img style="float: right; width: 227px;" src="/assets/bastian.jpeg">
 <br>
   Bastian Bunzeck  

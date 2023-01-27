@@ -136,6 +136,21 @@ ______
 ______  
 
 <br/><br/>
+
+<img style="float: right; width: 227px;" src="/assets/judith_profile.jpeg">
+  Judith Sieker  
+  Researcher  
+
+  __Office__: UHG C6-148  <br>
+  __Email__: j *dot* sieker *at* uni-bielefeld *dot* de
+
+  __Interests__: I am working on the individualization of language models and language moderation as part of the [SAIL](<https://jaii.eu/sail/#r1.1>) project.
+
+<br/><br/>
+
+______  
+
+<br/><br/>
 <img style="float: right; width: 227px;" src="/assets/bastian.jpeg">
 <br>
   Bastian Bunzeck  

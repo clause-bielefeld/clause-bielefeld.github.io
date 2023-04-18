@@ -111,7 +111,7 @@ ______
   Clara Lachenmaier  
   Researcher  
 
-  __Office__: 203 at [Institut für Germanistische Sprachwissenschaft](<https://www.google.com/maps/place/50%C2%B055'48.9%22N+11%C2%B035'02.6%22E/@50.930253,11.584047,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d50.930253!4d11.584047>) <br>
+  __Office__: UHG C5-208  <br>
   __Email__: clara *dot* lachenmaier *at* uni-jena *dot* de
 
   __Interests__: I am working on computational applications of Conversation Analysis.
@@ -156,6 +156,7 @@ ______
   Bastian Bunzeck  
   Researcher  
 
+  __Office__: UHG C5-208  <br>
   __Email__: bastian *dot* bunzeck *at* uni-bielefeld *dot* de  
 
   __Interests__:

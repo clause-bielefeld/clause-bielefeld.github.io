@@ -154,12 +154,12 @@ ______
 <img style="float: right; width: 227px;" src="/assets/bastian.jpeg">
 <br>
   Bastian Bunzeck  
-  Student Research Assistant
+  Researcher  
 
-  __Email__: bastian *dot* bunzeck *at* uni-jena *dot* de  
+  __Email__: bastian *dot* bunzeck *at* uni-bielefeld *dot* de  
 
   __Interests__:
-  I am interested in computational approaches *to all things language*, from regular linguistic research to the Digital Humanities and beyond.
+  I am interested in cognitively plausible models of language.
 
 <br/><br/>
 

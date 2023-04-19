@@ -19,7 +19,8 @@ Generally, we work on natural language processing and on learning models for lan
 <br/><br/>
 
 
-# News
+
+<!--# News
 
 * 01 Oct 2021: We are delighted to welcome Özge Alaçam as a new postdoc to our group!
 * 10 Sep 2021: Paper accepted: [Simeon & Sina](https://aclanthology.org/2021.reinact-1.7/) @[ReInAct](https://sites.google.com/view/reinact2021)
@@ -29,11 +30,6 @@ Generally, we work on natural language processing and on learning models for lan
 * 15 Feb 2021: Sina is co-chairing [IWCS 2021](https://iwcs2021.github.io/) with Johan, Rik, Lasha
 * 9 Feb 2021: Today is the Kick-off of our HistKI project (with Sander Münster @Uni Jena, Florian Niebling @Uni Würzburg, Stephan Hoppe @LMU) where Ronja will develop L&V models for applications in Digital Humanities.
 * 1 Feb 2021: Sina is appointed professor for Computational Linguistics @[Uni Bielefeld](https://www.uni-bielefeld.de/)
-* 15 Jan 2021: Upcoming DFG project on Interactive Argumentation Support as part of the SPP on [Argumentation Machines](http://ratio.sc.cit-ec.uni-bielefeld.de/de/home/)! PhD position will be available!
+* 15 Jan 2021: Upcoming DFG project on Interactive Argumentation Support as part of the SPP on [Argumentation Machines](http://ratio.sc.cit-ec.uni-bielefeld.de/de/home/)! PhD position will be available!-->
 
-
-<!--
-### News
-**23 Sep 2020**:
--->
 <!-- This is a comment in markdown -->

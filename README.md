@@ -1,4 +1,4 @@
-# clause-jena.github.io
+# clause-bielefeld.github.io
 
 Änderungen in den markdown-Dateien vornehmen
 

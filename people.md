@@ -12,8 +12,7 @@ ______
   Sina Zarrieß  
   Head of the group  
 
-  __Office__: UHG C5-204  
-  __Phone__: +49 3641 9 46470    
+  __Office__: UHG C5-234  
   __Email__: sina *dot* zarriess *at* uni-bielefeld *dot* de  
 
 <br/><br/>
@@ -60,7 +59,7 @@ ______
   Ronja Utescher  
   Researcher  
 
-  __Office__: UHG C5-208 <br>
+  __Office__: UHG C5-211 <br>
   __Email__: r *dot* utescher *at* uni-bielefeld *dot* de
 
   __Interests__:
@@ -77,7 +76,6 @@ ______
   Henrik Voigt  
   Researcher  
 
-  __Office__: 3235 <br>
   __Email__: henrik *dot* voigt *at* uni-jena *dot* de  
 
   __Interests__:
@@ -126,7 +124,7 @@ ______
   Sanne Hoeken  
   Researcher  
 
-  __Office__: UHG C5-205  <br>
+  __Office__: UHG C5-204  <br>
   __Email__: sanne *dot* hoeken *at* uni-bielefeld *dot* de
 
   __Interests__: I work on longitudinal analysis of change and variety in natural language data as part of the [SAIL](<https://jaii.eu/sail/#r1.ling>) project.
@@ -141,7 +139,7 @@ ______
   Judith Sieker  
   Researcher  
 
-  __Office__: UHG C6-148  <br>
+  __Office__: UHG C5-204 <br>
   __Email__: j *dot* sieker *at* uni-bielefeld *dot* de
 
   __Interests__: I am working on the individualization of language models and language moderation as part of the [SAIL](<https://jaii.eu/sail/#r1.1>) project.

@@ -43,7 +43,8 @@ ______
   Researcher  
 
   __Office__: UHG C5-205  <br>
-  __Email__: simeon *dot* schuez *at* uni-bielefeld *dot* de  
+  __Email__: simeon *dot* schuez *at* uni-bielefeld *dot* de
+  __Website__: [simeonschuez.gitlab.io](https://simeonschuez.gitlab.io/)
 
   __Interests__:
   I work on computational models for contextual influences in referring to visual objects.
@@ -155,7 +156,8 @@ ______
   Researcher  
 
   __Office__: UHG C5-208  <br>
-  __Email__: bastian *dot* bunzeck *at* uni-bielefeld *dot* de  
+  __Email__: bastian *dot* bunzeck *at* uni-bielefeld *dot* de
+  __Website__: [bbunzeck.github.io](https://bbunzeck.github.io/about-me.html)
 
   __Interests__:
   I am interested in cognitively plausible models of language.

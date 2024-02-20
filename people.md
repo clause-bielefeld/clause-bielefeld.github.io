@@ -39,12 +39,12 @@ ______
 <br/><br/>
 
 <img style="float: right; width: 227px;" src="/assets/simeon.jpg">
-  Simeon Schüz  
+  Simeon Junker (*né* Simeon Schüz)
   Researcher  
 
   __Office__: UHG C5-205  <br>
-  __Email__: simeon *dot* schuez *at* uni-bielefeld *dot* de <br>
-  __Website__: [simeonschuez.gitlab.io](https://simeonschuez.gitlab.io/)
+  __Email__: simeon *dot* junker *at* uni-bielefeld *dot* de <br>
+  __Website__: [simeonjunker.github.io](https://simeonjunker.github.io/)
 
   __Interests__:
   I work on computational models for contextual influences in referring to visual objects.

@@ -30,5 +30,5 @@ Feel free to contact us if you are interested in doing a project or thesis on NL
 
 ## Supervisors
 
-* [Ronja Utescher](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=298822497): *Language & Vision, Coreference Resolution, Multimodal Documents*
-* [Simeon Schüz](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=103094637): *Language & Vision, Language Generation*
+<!--* [Ronja Utescher](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=298822497): *Language & Vision, Coreference Resolution, Multimodal Documents*-->
+* [Simeon Junker](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=103094637): *Language & Vision, Language Generation*

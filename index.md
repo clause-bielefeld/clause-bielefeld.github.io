@@ -15,7 +15,7 @@ Generally, we work on natural language processing and on learning models for lan
 
 
 <img style="margin-left: auto; margin-right: auto; width: 100%;" src="/assets/clause_group.jpg" width="400" alt="The members of the CLAUSE group">
-From left to right: Clara Lachenmaier, Ronja Utescher, Özge Alaçam, Marc Brinner, Nazia Attari, Simeon Schüz, Sina Zarrieß, Henrik Voigt <br>
+From left to right: Clara Lachenmaier, Ronja Utescher, Özge Alaçam, Marc Brinner, Nazia Attari, Simeon Junker, Sina Zarrieß, Henrik Voigt <br>
 Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck
 
 <br/><br/>

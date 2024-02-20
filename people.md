@@ -39,7 +39,8 @@ ______
 <br/><br/>
 
 <img style="float: right; width: 227px;" src="/assets/simeon.jpg">
-  Simeon Junker (*né* Simeon Schüz)
+
+  Simeon Junker (_né_ Simeon Schüz)
   Researcher  
 
   __Office__: UHG C5-205  <br>

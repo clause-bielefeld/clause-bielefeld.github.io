@@ -8,9 +8,6 @@ Feel free to contact us if you are interested in doing a project or writing your
 Please also take note of our available supervisors and their respective topics of interest.
 
 
-<br/><br/>
-
-
 ## Completed Theses
 
 * Henrik Voigt: *Visually Grounded Instruction Generation Based on Change Captioning* (MA 2020)

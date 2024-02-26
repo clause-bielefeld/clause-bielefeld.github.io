@@ -4,23 +4,14 @@ title: Students
 permalink: /students/
 ---
 
-These are bachelor and master theses that are currently running or have been recently completed.
+Feel free to contact us if you are interested in doing a project or writing your BA or MA thesis on NLP/Computational Linguistics!
 Please also take note of our available supervisors and their respective topics of interest.
-Feel free to contact us if you are interested in doing a project or thesis on NLP/Computational Linguistics!
-
-<br/><br/>
-
-## Ongoing Theses
-
-* Kiara Abad Abruzzo: *Measuring the Perceptual Availability of Syllables During (Second) Language Acquisition Using Unsupervised Binary Stochastic Autoencoders*
-* Bianca Buff: *Analyzing pragmatic factors in the use of colour attributes in image captioning data*
-* Felix Juch: *Verknüpfen von Tweets mit Wissensdatenbanken zur Analyse von Gefahrenereignissen* (1st supervisor: Jens Kersten)
-* Reda Ihtassine: *Exploring Sentiment Analysis for Evolving Discussions on Social Media*
 
 
 <br/><br/>
 
-## Recently Completed Theses
+
+## Completed Theses
 
 * Henrik Voigt: *Visually Grounded Instruction Generation Based on Change Captioning* (MA 2020)
 * Christoph Staudt: *Method of Moments for Mixed Domain Topic Models* (MA 2020, 1st supervisor: Joachim Giesen)
@@ -30,5 +21,5 @@ Feel free to contact us if you are interested in doing a project or thesis on NL
 
 ## Supervisors
 
-<!--* [Ronja Utescher](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=298822497): *Language & Vision, Coreference Resolution, Multimodal Documents*-->
 * [Simeon Junker](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=103094637): *Language & Vision, Language Generation*
+* Bastian Bunzeck: *Linguistic analyses of language models*

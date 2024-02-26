@@ -23,6 +23,6 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck
 
 
 # News
-
+- Mar '24: Clara will present her late breaking report *Towards Understanding the Entanglement of Human Stereotypes and System Biases in Human–Robot Interaction* at the International Conference on Human Robot Interaction (HRI) 2024 in Boulder (Colorado)!
 - Dec '23: We presented four papers at EMNLP 2023 (and adjacent workshops) in Singapore: *[Methodological Insights in Detecting Subtle Semantic Shifts with Contextualized and Static Language Models](https://aclanthology.org/2023.findings-emnlp.237/)* (Sanne & Özge), *[Towards Detecting Lexical Change of Hate Speech in Historical Data](https://aclanthology.org/2023.lchange-1.11/)* (Sanne, Sina & Özge), *[When Your Language Model Cannot Even Do Determiners Right: Probing for Anti-Presuppositions and the Maximize Presupposition! Principle](https://aclanthology.org/2023.blackboxnlp-1.14/)* (Judith & Sina) and *[
-GPT-wee: How Small Can a Small Language Model Really Get?](https://aclanthology.org/2023.conll-babylm.2/)* (Bastian & Sina)
+GPT-wee: How Small Can a Small Language Model Really Get?](https://aclanthology.org/2023.conll-babylm.2/)* (Bastian & Sina).

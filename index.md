@@ -22,16 +22,7 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck
 
 
 
-<!--# News
+# News
 
-* 01 Oct 2021: We are delighted to welcome Özge Alaçam as a new postdoc to our group!
-* 10 Sep 2021: Paper accepted: [Simeon & Sina](https://aclanthology.org/2021.reinact-1.7/) @[ReInAct](https://sites.google.com/view/reinact2021)
-* 26 Jul 2021: Paper accepted: [Sina & Simeon with Hendrik Buschmeier and Ting Han](https://aclanthology.org/2021.inlg-1.41/) @[INLG](https://inlg2021.github.io/)
-* 26 May 2021: Paper accepted: [Simeon & Sina with Ting Han](https://aclanthology.org/2021.sigdial-1.43/) @[SIGDIAL](https://www.sigdial.org/files/workshops/conference22/)
-* 3 Mar 2021: 2 EACL workshop papers accepted: [Ronja](https://aclanthology.org/2021.lantern-1.5/) @[LANTERN](https://www.lantern.uni-saarland.de/2021/), [Henrik](https://aclanthology.org/2021.hcinlp-1.11/) @[HCI+NLP](https://sites.google.com/view/hciandnlp/home)
-* 15 Feb 2021: Sina is co-chairing [IWCS 2021](https://iwcs2021.github.io/) with Johan, Rik, Lasha
-* 9 Feb 2021: Today is the Kick-off of our HistKI project (with Sander Münster @Uni Jena, Florian Niebling @Uni Würzburg, Stephan Hoppe @LMU) where Ronja will develop L&V models for applications in Digital Humanities.
-* 1 Feb 2021: Sina is appointed professor for Computational Linguistics @[Uni Bielefeld](https://www.uni-bielefeld.de/)
-* 15 Jan 2021: Upcoming DFG project on Interactive Argumentation Support as part of the SPP on [Argumentation Machines](http://ratio.sc.cit-ec.uni-bielefeld.de/de/home/)! PhD position will be available!-->
-
-<!-- This is a comment in markdown -->
+- Dec '23: We presented four papers at EMNLP 2023 (and adjacent workshops) in Singapore: *[Methodological Insights in Detecting Subtle Semantic Shifts with Contextualized and Static Language Models](https://aclanthology.org/2023.findings-emnlp.237/)* (Sanne & Özge), *[Towards Detecting Lexical Change of Hate Speech in Historical Data](https://aclanthology.org/2023.lchange-1.11/)* (Sanne, Sina & Özge), *[When Your Language Model Cannot Even Do Determiners Right: Probing for Anti-Presuppositions and the Maximize Presupposition! Principle](https://aclanthology.org/2023.blackboxnlp-1.14/)* (Judith & Sina) and *[
+GPT-wee: How Small Can a Small Language Model Really Get?](https://aclanthology.org/2023.conll-babylm.2/)* (Bastian & Sina)

@@ -4,6 +4,15 @@ title: Students
 permalink: /students/
 ---
 
+# Teaching materials
+
+**General guidelines** for getting started with some of the tools we use in our lectures:
+
+* [Using the (Unix) Command Line](/teaching/cli)
+* [Getting started with Python and Anaconda](/teaching/python)
+
+# Theses
+
 Feel free to contact us if you are interested in doing a project or writing your BA or MA thesis on NLP/Computational Linguistics!
 Please also take note of our available supervisors and their respective topics of interest.
 

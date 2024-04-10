@@ -16,7 +16,7 @@ permalink: /students/
 Feel free to contact us if you are interested in doing a project or writing your BA or MA thesis on NLP/Computational Linguistics!
 Please also take note of our available supervisors and their respective topics of interest.
 
-
+<!--
 ## Completed Theses
 
 * Henrik Voigt: *Visually Grounded Instruction Generation Based on Change Captioning* (MA 2020)
@@ -24,6 +24,7 @@ Please also take note of our available supervisors and their respective topics o
 * Leonid Kaida: *Mining hypotheses in scientific papers using text classification* (MA 2021)
 * Xuan Liu: *Modeling object-color dependencies with image captioning models* (MA 2021)
 * Lennart Austen: *Analyse referierender Ausdrücke in aufgabenorientierten Dialogen* (BA 2021)
+-->
 
 ## Supervisors
 

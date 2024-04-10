@@ -38,17 +38,14 @@ The Anaconda Individual Edition can be downloaded [here](https://www.anaconda.co
 
 There are two ways of accessing the tools which are included in the Anaconda distribution: Via the Anaconda Navigator or directly using the command line.
 
-Anaconda Navigator is a graphical user interface (GUI) which can be used to access applications such as Jupyter Lab or the Qt Console, as well as for managing conda environments. On Linux machines you can start Anaconda Navigator by executing ``anaconda-navigator`` in the command line. On Windows, you can find it in your start menu (e.g. by hitting the windows button and typing "Anaconda Navigator").
+**Anaconda Navigator** is a graphical user interface (GUI) which can be used to access applications such as Jupyter Lab or the Qt Console, as well as for managing conda environments. On Linux machines you can start Anaconda Navigator by executing ``anaconda-navigator`` in the command line. On Windows, you can find it in your start menu (e.g. by hitting the windows button and typing "Anaconda Navigator").
 
-Using the command line, many Anaconda applications can be accessed more directly and in the desired directory. For example, in Linux you can run ``jupyter-lab`` and ``jupyter notebook`` to run Jupyter Lab and Jupyter Notebook, respectively.
-
-To use Anaconda from the command line, it must be *initialized* in the command line interface. To see if this is the case, start a Terminal (Linux / Mac) or Powershell (Windows) session. If conda is initialized, the prompt (see [here](teaching/cli/)) will be preceded by ``(base)``, i.e. you will see ``(base) user@host:~$``. This indicates that (a) conda is initialized and (b) you are currently in the default *base* environment (see next section). 
-
+Using the **command line**, many Anaconda applications can be accessed more directly and in the desired directory. For example, in Linux you can run ``jupyter-lab`` and ``jupyter notebook`` to run Jupyter Lab and Jupyter Notebook, respectively. To use Anaconda from the command line, it must be **initialized** in the command line interface. To see if this is the case, start a Terminal (Linux / Mac) or Powershell (Windows) session. If conda is initialized, the command prompt will be preceded by ``(base)``, i.e. you will see ``(base) user@host:~$``. This indicates that (a) conda is initialized and (b) you are currently in the default *base* environment (see next section). 
 When installing Anaconda, you will be asked if conda should be initialized by default. If ``(base)`` is missing, you can try running the command ``conda init`` (and then restarting the terminal), or (on Windows) using the *Anaconda Prompt* (from the Start menu) instead of Powershell.
 
 ### Managing Environments and Installing Modules
 
- Anaconda includes conda, a package manager that can be used to set up separate Python environments, each containing its own version of Python and additional modules. Although managing environments with conda is not necessary for beginners who mainly rely on pre-installed modules from the [Python Standard Library](https://docs.python.org/3/library/index.html), it is **highly recommended** for larger projects with more dependencies.
+ Anaconda includes **conda**, a package manager that can be used to set up separate Python environments, each containing its own version of Python and additional modules. Although managing environments with conda is not necessary for beginners who mainly rely on pre-installed modules from the [Python Standard Library](https://docs.python.org/3/library/index.html), it is **highly recommended** for larger projects with more dependencies.
 
  To manage conda environments from the command line, make sure *conda* is initialized (as indicated by the ``(base)`` prefix, see previous section). ``(base)`` indicates that you are currently in the default *base* environment. 
 
@@ -63,7 +60,7 @@ When installing Anaconda, you will be asked if conda should be initialized by de
 
 ## 2. Getting started with Python
 
-After installing Python, you can write and run code in three different ways: Via the interactive interpreter, by writing and executing Python scripts (file extension: .py), and in Jupyter/IPython notebooks (file extension: .ipynb).
+After installing Python, you can write and run code in three different ways: Via the **interactive interpreter**, by writing and executing **Python scripts** (file extension: .py), and in **Jupyter/IPython notebooks** (file extension: .ipynb).
 
 ### Interactive Interpreter
 
@@ -77,7 +74,7 @@ Writing Python scripts can be considered the canonical way to program with Pytho
 
 The general flow is as follows: Using a text editor, the Python code is written to a text file, which is saved with the .py file extension. This file is passed to the Python interpreter (for example, by executing the command ``python filename.py`` in Linux). The code in the file is now executed line by line, from top to bottom, and print statements are displayed in the command line.
 
-Some good editors are e.g. [Atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/), [Visual Studio Code](https://code.visualstudio.com/) or [Vim](https://www.vim.org/) (for more advanced users). If you only have to write a few lines, you might as well use any preinstalled text editor, such as Notepad on Windows.
+Some good editors are e.g. [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/) or [Vim](https://www.vim.org/) (for more advanced users). If you only have to write a few lines, you might as well use any preinstalled text editor, such as Notepad on Windows.
 
 Note: The Anaconda distribution includes Spyder; an integrated development environment (IDE) for working with .py files. In Spyder, scripts can be created, edited and executed without switching between the editor and the command line. While all of this can be useful, many functions are not needed for beginners and may be distracting. Also, knowing how to use the command line is a skill that is helpful in many cases and indispensable in others. Therefore, we strongly recommend that students become familiar with the command line *at least* to the point where they can navigate between folders and run Python scripts.
 
@@ -87,13 +84,15 @@ Jupyter Notebooks are documents, which can contain Python code, interpreter outp
 
 In notebooks, code and text can be clustered in individuall "cells". You can think of code cells as individual Python scripts: They can be run independently, the output is displayed below the respective code cell. Cells can be run in any order - e.g. all cells from top to bottom, individual cells in any order, or the same cells multiple times. If a code cell is run, it can access everything which was set by previous cells - for example variables, which have been defined, or imported modules.
 
+Notebooks can be created or accessed through the browser-based Jupyter Notebook/Lab environments. Alternatively, editors such as Visual Studio Code provide plug-ins for working with notebooks.
+
 A more detailed description of what notebooks can do and how to use them can be found in the [JupyterLab documentation](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
 
 ## 3. Using Python via the command line on Windows
 
 On Windows, Python can be used from the [command line](https://en.wikipedia.org/wiki/Command-line_interface) just like in Linux or MacOS. For this, the file *python.exe*, which is created when installing Anaconda, has to be run from a command line interpreter. However, some setup steps might be necessary, which are described below.
 
-"Windows PowerShell" is the pre-installed command line interpreter on Windows. It can be started either from the start menu, or from the Windows Explorer in any directory (via "File" -> "Open Windows PowerShell"). After starting PowerShell, a so-called [command prompt](https://en.wikipedia.org/wiki/Command-line_interface#Command_prompt) is displayed, which indicates that PowerShell is ready to accept commands. In PowerShell the prompt consists of "PS", followed by the [path](https://en.wikipedia.org/wiki/Path_(computing)) to the current directory and a subsequent ">". If PowerShell is run from Explorer, it directly starts in the directory which was opened in the Explorer.
+"Windows PowerShell" is the pre-installed command line interpreter on Windows. (Alternatively, you can use the Anaconda Prompt.) PowerShell can be started either from the start menu, or from the Windows Explorer in any directory (via "File" -> "Open Windows PowerShell"). After starting PowerShell, a so-called [command prompt](https://en.wikipedia.org/wiki/Command-line_interface#Command_prompt) is displayed, which indicates that PowerShell is ready to accept commands. In PowerShell the prompt consists of "PS", followed by the [path](https://en.wikipedia.org/wiki/Path_(computing)) to the current directory and a subsequent ">". If PowerShell is run from Explorer, it directly starts in the directory which was opened in the Explorer.
 
 To run the **Python interpreter in interactive mode**, the full (*absolute*) path to python.exe can be entered in PowerShell.
 For example: `C:\Users\YourName\anaconda3\python.exe`. This path will look different, depending on the directory where Anaconda was installed. Hint: Use the "Tab" key to auto-complete commands or paths while entering them in PowerShell; use the up and down arrow keys to toggle between commands recently executed.

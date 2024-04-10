@@ -42,11 +42,24 @@ Anaconda Navigator is a graphical user interface (GUI) which can be used to acce
 
 Using the command line, many Anaconda applications can be accessed more directly and in the desired directory. For example, in Linux you can run ``jupyter-lab`` and ``jupyter notebook`` to run Jupyter Lab and Jupyter Notebook, respectively.
 
-### Managing Environments
+To use Anaconda from the command line, it must be *initialized* in the command line interface. To see if this is the case, start a Terminal (Linux / Mac) or Powershell (Windows) session. If conda is initialized, the prompt (see [here](teaching/cli/)) will be preceded by ``(base)``, i.e. you will see ``(base) user@host:~$``. This indicates that (a) conda is initialized and (b) you are currently in the default *base* environment (see next section). 
 
- Anaconda includes conda, a package manager, which can be used to set up separate Python environments, each condaining each own Python version and additional modules. Althought managing environments using conda is not necessary for beginners, it is very useful if working on larger projects with more dependencies.
+When installing Anaconda, you will be asked if conda should be initialized by default. If ``(base)`` is missing, you can try running the command ``conda init`` (and then restarting the terminal), or (on Windows) using the *Anaconda Prompt* (from the Start menu) instead of Powershell.
 
- Conda environments can be both managed in the Anaconda Navigator and using the command line. A comprehensive guide for getting started with conda can be found [here](https://conda.io/projects/conda/en/latest/user-guide/index.html)
+### Managing Environments and Installing Modules
+
+ Anaconda includes conda, a package manager that can be used to set up separate Python environments, each containing its own version of Python and additional modules. Although managing environments with conda is not necessary for beginners who mainly rely on pre-installed modules from the [Python Standard Library](https://docs.python.org/3/library/index.html), it is **highly recommended** for larger projects with more dependencies.
+
+ To manage conda environments from the command line, make sure *conda* is initialized (as indicated by the ``(base)`` prefix, see previous section). ``(base)`` indicates that you are currently in the default *base* environment. 
+
+ **Additional environments** (e.g. for new projects) can be created using the command ``conda create --name myenv``, where ``myenv`` can be replaced with any name for your environment. (Note that it is also possible to create environments with specific Python versions, e.g. ``conda create --name myenv python=3.8``. To delete environments, run ``conda remove --name myenv --all``.). Once created, you can switch to the new environment with ``conda activate myenv`` (where ``myenv`` is replaced with the respective environment name).
+
+ With the environment enabled, you can now start **installing additional Python packages / modules**. This can be done through *conda* itself, e.g. using the command ``conda install numpy`` to install NumPy. (The actual commands can be easily found via Google, e.g. searching for "conda install nltk" will take you to a subpage of [https://anaconda.org](https://anaconda.org) where you can find a command to copy&paste). Alternatively, you can use *pip* to install new packages. To do this, you must first install pip itself (with ``conda install pip``). Then you can install e.g. NumPy with ``pip install numpy``. (Again, Google will lead you to the commands for the packages you want to install).
+ Using either *conda* or *pip* should work in most cases, but sometimes packages on *pip* are more up-to-date.
+
+ Conda environments can also be **accessed in Jupyter Notebook/Lab**. This requires two additional steps: First, in the activated environment, run ``conda install -c anaconda ipykernel`` (or ``pip install ipykernel`` if you are using *pip*), followed by ``python -m ipykernel install --user --name=myenv`` (replacing ``myenv`` with the name of the environment). After this (and restarting any running sessions) you should be able to select the environment in Notebook/Lab. (More detailed instructions can be found [here](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084).)
+
+ Further information on conda environments (and instructions for how to manage environments in the Anaconda Navigator) can be found [here](https://conda.io/projects/conda/en/latest/user-guide/index.html).
 
 ## 2. Getting started with Python
 

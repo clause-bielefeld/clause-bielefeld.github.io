@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### INAS (starting soon, duration: 3 years)
+### INAS
 
 * Title: *Interactive Argumentation Support in the Invasion Biology Domain*
 * Project description: Developing a good, new argument is not an easy task.

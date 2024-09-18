@@ -151,7 +151,7 @@ ______
 ______  
 
 <br/><br/>
-<img style="float: right; width: 227px;" src="/assets/bastian.jpeg">
+<img style="float: right; width: 227px;" src="/assets/bastian.jpg">
 <br>
   Bastian Bunzeck  
   Researcher  
@@ -161,7 +161,7 @@ ______
   __Website__: [bbunzeck.github.io](https://bbunzeck.github.io/about-me.html)
 
   __Interests__:
-  I am interested in cognitively plausible models of language.
+  I am interested in cognitively plausible models of language in humans and machines, preferably small-ish.
 
 <br/><br/>
 

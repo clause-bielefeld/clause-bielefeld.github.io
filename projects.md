@@ -6,8 +6,14 @@ permalink: /projects/
 
 # Ongoing
 
+### CRC 1646: Linguistic Creativity in Communication
+* Check the [CRC website](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/)) for CRC projects that our group is affiliated with
+* Funding: DFG
+
+
 ### SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)
-- Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
+* Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
+* Funding: MKW NRW
 
 ### INAS (since 2022)
 

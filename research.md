@@ -4,9 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Publications
-
-Recent publications by people in our group:
+## Recent publications
 
 - Alaçam, Özge, Ronja Utescher, Hannes Grönner, Judith Sieker, und Sina Zarrieß. „WikiScenes with Descriptions: Aligning Paragraphs and Sentences with Images in Wikipedia Articles“. In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), 93–105. Mexico City, Mexico: Association for Computational Linguistics, 2024. https://doi.org/10.18653/v1/2024.starsem-1.8.
 

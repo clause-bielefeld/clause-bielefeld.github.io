@@ -6,16 +6,16 @@ permalink: /projects/
 
 # Ongoing
 
-### CRC 1646: Linguistic Creativity in Communication
+#### CRC 1646: Linguistic Creativity in Communication
 * Check the [CRC website](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/) for CRC projects that our group is affiliated with
 * Funding: DFG
 
 
-### SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)
+#### SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)
 * Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
 * Funding: MKW NRW
 
-### INAS (since 2022)
+#### INAS (since 2022)
 
 * Title: *Interactive Argumentation Support in the Invasion Biology Domain*
 * Project description: Developing a good, new argument is not an easy task.
@@ -28,7 +28,7 @@ Thus, an initial hypothesis needs to be specific enough that a researcher can te
 
 # Finished
 
-### NLP4VIS (Nov 2020 - Oct 2023)
+#### NLP4VIS (Nov 2020 - Oct 2023)
 
 * Title: *A generic conversational interface for scientific data visualization*
 * Project description: The goal of this project is to work towards a generic Natural Language Interface (NLI) that allows users to interact with data and visualizations of data in an intuitive way, via conversational language. Given such a generic NLI, users could enter formally complex queries on their data in natural language (e.g., in a data set on exam gradings: \textit{find me a question that Master students answers significantly better than Bachelor students}), without the need to  extensively familiarize  with the technical backend of the visualization tool at hand (e.g., programming in \textsf{python/matplotlib}).
@@ -36,11 +36,9 @@ Compared to traditional interfaces for visualization, NLIs bear the potential to
 * Funding: Carl Zeiss Foundation, [Werkstatt project @MSCJ](https://www.mscj.uni-jena.de/) 
 * PIs: Kai Lawonn, Monique Meuschke, Sina Zarrieß
 
-### HistKI (Jan 2021 - Dec 2023)
+#### HistKI (Jan 2021 - Dec 2023)
 
  * Project description: In many historical sciences, photographs and other images of architecture serve as a source and basis for subject- and theory-specific investigations. Although AI-based computer vision methods have developed significantly in recent years, they can support the process of source research and criticism in a rudimentary way at best, e.g. for the exploration of image repositories or the retrieval of images. HistKI aims to explore the support and modeling of image source research and criticism as a complex and fundamental historiographical working technique by multimodal AI-based methods. Related sub-questions are: How do historians and other scholars find and evaluate image sources? What generic procedures and sub-problems can be identified for this purpose? How can this be promoted with AI-based approaches? How do AI techniques impact the humanities research process? These questions will be explored using selected scenarios in which images, texts, and 3D models interact synergistically to describe architectural objects and urban ensembles for a process of analysis. With the help of machine learning methods, object sources and text sources (e.g.: captions) will be linked in HistKI in order to allow a detailed contextualization and localization of photographs in the future, thus going a significant step beyond previous methods of distant viewing.
  * Funding: BMBF (Förderkennzeichen: 01UG2120A)
  * Coordinator: Sander Münster, Uni Jena
-
-
 

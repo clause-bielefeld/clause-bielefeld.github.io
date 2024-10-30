@@ -4,7 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-### INAS
+# Ongoing
+
+### SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)
+- Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
+
+### INAS (since 2022)
 
 * Title: *Interactive Argumentation Support in the Invasion Biology Domain*
 * Project description: Developing a good, new argument is not an easy task.
@@ -14,6 +19,8 @@ In scientific argumentation, a carefully developed and thought-through hypothesi
 Thus, an initial hypothesis needs to be specific enough that a researcher can test it based on data, but, at the same time, it should also relate to and extend previous general claims made in the community. In this project, we investigate how argumentation machines can (i) represent concrete and more abstract knowledge on hypotheses and their underlying concepts, (ii) automatically compute semantic relations between hypotheses made in scientific publications, and between hypotheses and datasets, and (iii) interactively support a user in developing her own hypothesis based on these resources. This project will thus combine methods from different disciplines: natural language processing, knowledge representation and semantic web and -- as an example for a scientific domain -- invasion biology.
 * Funding: DFG, RATIO SPP
 * PIs: Sina Zarrieß, Tina Heger, Birgitta König-Ries
+
+# Finished
 
 ### NLP4VIS (Nov 2020 - Oct 2023)
 

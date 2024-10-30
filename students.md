@@ -14,7 +14,6 @@ permalink: /students/
 # Theses
 
 Feel free to contact us if you are interested in doing a project or writing your BA or MA thesis on NLP/Computational Linguistics!
-Please also take note of our available supervisors and their respective topics of interest.
 
 <!--
 ## Completed Theses
@@ -25,8 +24,3 @@ Please also take note of our available supervisors and their respective topics o
 * Xuan Liu: *Modeling object-color dependencies with image captioning models* (MA 2021)
 * Lennart Austen: *Analyse referierender Ausdrücke in aufgabenorientierten Dialogen* (BA 2021)
 -->
-
-## Supervisors
-
-* [Simeon Junker](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=103094637): *Language & Vision, Language Generation*
-* Bastian Bunzeck: *Linguistic analyses of language models*

@@ -43,7 +43,7 @@ ______
   Simeon Junker (_né_ Simeon Schüz)<br>
   Researcher  
 
-  __Office__: UHG C5-205  <br>
+  __Office__: UHG C5-208  <br>
   __Email__: simeon *dot* junker *at* uni-bielefeld *dot* de <br>
   __Website__: [simeonjunker.github.io](https://simeonjunker.github.io/)
 
@@ -53,22 +53,6 @@ ______
 
 <br/><br/>
 
-______
-
-<br/><br/>
-
-<img style="float: right; width: 227px;" src="/assets/ronja.jpg">
-  Ronja Utescher  
-  Researcher  
-
-  __Office__: UHG C5-211 <br>
-  __Email__: r *dot* utescher *at* uni-bielefeld *dot* de
-
-  __Interests__:
-  I am a member of the HistKI project, where I work on extracting (semi-)structured information from naturally occuring multi-modal documents.
-  Some of my other research interests include Visual Grounding, Computational Semantics and Vision & Language.
-
-<br/><br/>
 
 ______
 
@@ -91,15 +75,14 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/nazia.jpg">
-  Nazia Attari  
+
+  Marc Brinner
   Researcher  
 
-  __Office__: CITEC-1-231 <br>
-  __Email__: nattari *dot* techfak *dot* uni-bielefeld *dot* de   
+  __Office__: UHG C5-217  <br>
+  __Email__: marc *dot* brinner *at* uni-bielefeld *dot* de
 
-  __Interests__:
-  My current research explores the generation of natural language explanations in the domain of concept learning. These explanations can also be treated as concept definition as these are derived from a group of exemplars. I am broadly interested in the  intersection of natural language and vision, and explainability of machine learning models.
+  __Interests__: To be added.
 
 <br/><br/>
 
@@ -111,8 +94,8 @@ ______
   Clara Lachenmaier  
   Researcher  
 
-  __Office__: UHG C5-208  <br>
-  __Email__: clara *dot* lachenmaier *at* uni-jena *dot* de
+  __Office__: UHG C5-205  <br>
+  __Email__: clara *dot* lachenmaier *at* uni-bielefeld *dot* de
 
   __Interests__: I am working on computational applications of Conversation Analysis.
 
@@ -169,3 +152,4 @@ ______
 
 **Student assistants**
 - Florian Steig
+- Hannes Gröner

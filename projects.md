@@ -7,7 +7,7 @@ permalink: /projects/
 # Ongoing
 
 ### CRC 1646: Linguistic Creativity in Communication
-* Check the [CRC website](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/)) for CRC projects that our group is affiliated with
+* Check the [CRC website](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/) for CRC projects that our group is affiliated with
 * Funding: DFG
 
 

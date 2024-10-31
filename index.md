@@ -24,6 +24,7 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck
 
 # News
 - Nov '24: We will present 5 main conference papers and 4 workshop papers at EMNLP in Miami -- stay tuned!
+- Simeon & Sina received the best paper award at [INLG 2024](https://2024.inlgmeeting.org/awards.html) for their paper [https://aclanthology.org/2024.inlg-main.29/](https://aclanthology.org/2024.inlg-main.29/)
 - Oct '24: Bastian presented his paper *[Fifty shapes of BLiMP: syntactic learning curves in language models are not uniform, but sometimes unruly](https://aclanthology.org/2024.clasp-1.7/)* at the MILLing conference in Gothenburg
 - Sep '24: Bastian presented his ongoing work on *Constructions in child-directed speech* at the [10th International Conference of the German Cognitive Linguistics Association](https://www2.uni-osnabrueck.de/dgkl2024/) 
 - Jun '24: We hosted the 3rd annual [NLG in the Lowlands](https://sites.google.com/view/nlg-in-the-lowlands-2024/home) workshop

@@ -142,7 +142,7 @@ ______
 
   __Office__: UHG C5-208  <br>
   __Email__: bastian *dot* bunzeck *at* uni-bielefeld *dot* de <br>
-  __Website__: [bbunzeck.github.io](https://bbunzeck.github.io/about-me.html)
+  __Website__: [bbunzeck.github.io](https://bbunzeck.github.io)
 
   __Interests__:
   I am interested in cognitively plausible models of language in humans and machines, preferably small-ish.

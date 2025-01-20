@@ -23,6 +23,9 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck
 
 
 # News
+
+- Jan '25: Bastian will present his paper *[Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas](https://arxiv.org/abs/2410.01487)* (with Daniel Duran, Leonie Schade and Sina) at COLING 2025 in Abu Dhabi
+- Dec '24: Bastian's article *[The richness of the stimulus: Constructional variation and development in child-directed speech](https://doi.org/10.1177/01427237241303225)* (with Holger Diessel, U of Jena) has been published in *First Language*
 - Nov '24: We presented 5 main conference papers and 4 workshop papers at EMNLP in Miami:
   - **Main conference**: *[Hateful Word in Context Classification](https://aclanthology.org/2024.emnlp-main.10/)* (Sanne, Sina & Özge), *[Eyes Don’t Lie: Subjective Hate Annotation and Detection with Gaze](https://aclanthology.org/2024.emnlp-main.11/)* (Özge, Sanne & Sina), *[Rationalizing Transformer Predictions via End-To-End Differentiable Self-Training](https://aclanthology.org/2024.emnlp-main.664/)* (Marc & Sina), *[The Illusion of Competence: Evaluating the Effect of Explanations on Users’ Mental Models of Visual Question Answering Systems](https://aclanthology.org/2024.emnlp-main.1084/)* (Judith, Simeon, Ronja & Sina), *[Evaluating Diversity in Automatic Poetry Generation](https://aclanthology.org/2024.emnlp-main.1097/)* (Sina)
   - **GenBench**: *[The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns](https://aclanthology.org/2024.genbench-1.3/)* (Bastian & Sina)

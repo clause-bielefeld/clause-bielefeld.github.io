@@ -24,6 +24,7 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck
 
 # News
 
+- Jun '25: We will present 5 papers at ACL 2025 in Vienna (2 main, 3 findings), and probably a few more at adjacent workshops -- stay tuned for more info!
 - We are hosting **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
 - Jan '25: Bastian presented his paper *[Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas](https://aclanthology.org/2025.coling-main.404/)* (with Daniel Duran, Leonie Schade and Sina Zarrieß) at COLING 2025 in Abu Dhabi
 - Dec '24: Bastian's article *[The richness of the stimulus: Constructional variation and development in child-directed speech](https://doi.org/10.1177/01427237241303225)* (with Holger Diessel, U of Jena) has been published in *First Language*

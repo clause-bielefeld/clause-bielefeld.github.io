@@ -128,7 +128,7 @@ ______
   __Office__: UHG C5-204 <br>
   __Email__: j *dot* sieker *at* uni-bielefeld *dot* de
 
-  __Interests__: I am working on the individualization of language models and language moderation as part of the [SAIL](<https://www.sail.nrw/>) project.
+  __Interests__: I'm working on linguistically informed evaluation of language models, with a focus on their pragmatic competence. I’m especially interested in how models respond to communication breakdowns and subtle misalignments in shared understanding. I'm part  of the [SAIL](<https://jaii.eu/sail/#r1.ling>) project.
 
 <br/><br/>
 

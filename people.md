@@ -151,6 +151,22 @@ ______
 
 ______  
 
+<br/><br/>
+<img style="float: right; width: 227px;" src="/assets/omar.jpg">
+<br/>
+
+  Omar Momen <br/>
+  Researcher
+
+  __Office__: Building X Room E1-271 <br>
+  __Email__: omar *dot* hassan *at* uni-bielefeld *dot* de
+
+  __Interests__: I am interested in understanding how language models work internally, i.e LMs Interpretability. And I am currently working on developing computational metrics for linguistic creativity as part of project A05 in the [CRC 1646: Linguistic Creativity in Communication](<https://www.uni-bielefeld.de/sfb/sfb1646/>).
+
+<br/><br/>
+
+______
+
 **Student assistants**
 - Florian Steig
 - Hannes Gröner

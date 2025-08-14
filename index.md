@@ -24,8 +24,9 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck, Omar Momen
 
 # News
 
-- Jul/Aug '25: Judith and Clara will present their paper *LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High* (Judith Sieker, Clara Lachenmaier, Sina Zarrieß) at **CogSci 2025** in San Francisco!
-- Jul/Aug '25: We will present 10 papers at **ACL 2025** and adjacent workshops in Vienna!
+- We are hosting **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
+- Jul/Aug '25: Judith and Clara presented their paper *LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High* (Judith Sieker, Clara Lachenmaier, Sina Zarrieß) at **CogSci 2025** in San Francisco!
+- Jul/Aug '25: We presented 10 papers at **ACL 2025** and adjacent workshops in Vienna!
   - Clara Lachenmaier, Judith Sieker, Sina Zarrieß,	*Can LLMs Ground when they (Don’t) Know: A Study on Direct and Loaded Political Questions*,	ACL 2025 (Main)
   - Bastian Bunzeck, Sina Zarrieß,	*Subword models struggle with word learning, but surprisal hides it*,	ACL 2025 (Main)
   - Marc Felix Brinner, Sina Zarrieß,	*SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts*,	ACL 2025 (Findings)
@@ -36,8 +37,6 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck, Omar Momen
   - Simeon Junker,	*ReproHum #0729-04: Human Evaluation Reproduction Report for "MemSum: Extractive Summarization of Long Documents Using Multi-Step Episodic Markov Decision Processes"*, GEM2 Workshop: Generation, Evaluation & Metrics
   - Emilie Sitter, Omar Momen, Florian Steig, J. Berenike Herrmann, Sina Zarrieß, *Annotating Spatial Descriptions in Literary and Non-Literary Text*,	The 19th Linguistic Annotation Workshop (LAW XIX)
   - Sebastian Loftus, A. Mülthaler, Sanne Hoeken, Sina Zarrieß, Özge Alacam,	*Using LLMs and Preference Optimization for Agreement-Aware HateWiC Classification*,	9th Workshop on Online Abuse and Harms (WOAH 2025)
-
-- We are hosting **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
 - Jan '25: Bastian presented his paper *[Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas](https://aclanthology.org/2025.coling-main.404/)* (with Daniel Duran, Leonie Schade and Sina Zarrieß) at **COLING 2025** in Abu Dhabi
 - Dec '24: Bastian's article *[The richness of the stimulus: Constructional variation and development in child-directed speech](https://doi.org/10.1177/01427237241303225)* (with Holger Diessel, U of Jena) has been published in **First Language**
 - Nov '24: We presented 5 main conference papers and 4 workshop papers at **EMNLP** in Miami:

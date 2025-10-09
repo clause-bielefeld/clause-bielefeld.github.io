@@ -15,8 +15,8 @@ Generally, we work on natural language processing and on learning models for lan
 
 
 <img style="margin-left: auto; margin-right: auto; width: 100%;" src="/assets/clause_group.jpg" width="400" alt="The members of the CLAUSE group">
-From left to right: Clara Lachenmaier, Ronja Utescher, Özge Alaçam, Marc Brinner, Nazia Attari, Simeon Junker, Sina Zarrieß, Henrik Voigt <br>
-Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck, Omar Momen
+Back row: Manar Ali, Larissa Koch, Clara Lachenmaier, Judith Sieker, Simeon Junker, Sanne Hoeken, Emilie Sitter, Omar Momen <br>
+Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@ Not pictured: Sanne Hoeken, Judith Sieker, Bastian Bunzeck, Omar Momen
 
 # News
 
-- We are hosting **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
+- We hosted **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
 - Jul/Aug '25: Judith and Clara presented their paper *LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High* (Judith Sieker, Clara Lachenmaier, Sina Zarrieß) at **CogSci 2025** in San Francisco!
 - Jul/Aug '25: We presented 10 papers at **ACL 2025** and adjacent workshops in Vienna!
   - Clara Lachenmaier, Judith Sieker, Sina Zarrieß,	*Can LLMs Ground when they (Don’t) Know: A Study on Direct and Loaded Political Questions*,	ACL 2025 (Main)

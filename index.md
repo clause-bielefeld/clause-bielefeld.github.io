@@ -32,15 +32,14 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
   - Francesca Padovani, Bastian Bunzeck, Manar Ali, Omar Momen, Arianna Bisazza, Hendrik Buschmeier, and Sina Zarrieß, *Dialogue Is Not Enough to Make a Communicative BabyLM (But Neither Is Developmentally Inspired Reinforcement Learning)*, BabyLM Workshop
 - We hosted **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
 - Jul/Aug '25: Judith and Clara presented their paper *LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High* (Judith Sieker, Clara Lachenmaier, Sina Zarrieß) at **CogSci 2025** in San Francisco!
-- Jul/Aug '25: We presented 10 papers at **ACL 2025** and adjacent workshops in Vienna!
+- Jul/Aug '25: We presented 9 papers at **ACL 2025** and adjacent workshops in Vienna!
   - Clara Lachenmaier, Judith Sieker, Sina Zarrieß,	*Can LLMs Ground when they (Don’t) Know: A Study on Direct and Loaded Political Questions*,	ACL 2025 (Main)
   - Bastian Bunzeck, Sina Zarrieß,	*Subword models struggle with word learning, but surprisal hides it*,	ACL 2025 (Main)
-  - Marc Felix Brinner, Sina Zarrieß,	*SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts*,	ACL 2025 (Findings)
-  - Simeon Junker, Sina Zarrieß	SceneGram: Conceptualizing and Describing Tangrams in Scene Context	ACL 2025 (Findings)
+  - Simeon Junker, Sina Zarrieß, *SceneGram: Conceptualizing and Describing Tangrams in Scene Context*,	ACL 2025 (Findings)
   - Simeon Junker, Manar Ali, Larissa Koch, Sina Zarrieß, Hendrik Buschmeier, *Are Multimodal Large Language Models Pragmatically Competent Listeners in Simple Reference Resolution Tasks?*,	ACL 2025 (Findings)
   - Bastian Bunzeck, Daniel Duran, Sina Zarrieß, *Do Construction Distributions Shape Formal Language Learning In German BabyLMs?*, CoNNL 2025
   - Sina Zarrieß, Simeon Junker, Judith Sieker, Özge Alacam,	*Components of Creativity: Language Model-based Predictors for Clustering and Switching in Verbal Fluency*, CoNNL 2025
-  - Simeon Junker,	*ReproHum #0729-04: Human Evaluation Reproduction Report for "MemSum: Extractive Summarization of Long Documents Using Multi-Step Episodic Markov Decision Processes"*, GEM2 Workshop: Generation, Evaluation & Metrics
+  - Simeon Junker, *ReproHum #0729-04: Human Evaluation Reproduction Report for "MemSum: Extractive Summarization of Long Documents Using Multi-Step Episodic Markov Decision Processes"*, GEM2 Workshop: Generation, Evaluation & Metrics
   - Emilie Sitter, Omar Momen, Florian Steig, J. Berenike Herrmann, Sina Zarrieß, *Annotating Spatial Descriptions in Literary and Non-Literary Text*,	The 19th Linguistic Annotation Workshop (LAW XIX)
   - Sebastian Loftus, A. Mülthaler, Sanne Hoeken, Sina Zarrieß, Özge Alacam,	*Using LLMs and Preference Optimization for Agreement-Aware HateWiC Classification*,	9th Workshop on Online Abuse and Harms (WOAH 2025)
 - Jan '25: Bastian presented his paper *[Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas](https://aclanthology.org/2025.coling-main.404/)* (with Daniel Duran, Leonie Schade and Sina Zarrieß) at **COLING 2025** in Abu Dhabi

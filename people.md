@@ -170,3 +170,6 @@ ______
 **Student assistants**
 - Florian Steig
 - Hannes Gröner
+- Larissa Koch
+- Vicky Rupprecht
+- Laurens Winkler

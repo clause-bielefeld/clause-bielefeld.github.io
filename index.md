@@ -24,6 +24,12 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 # News
 
+- Nov '25: We presented 5 papers at **EMNLP 2025** and co-located workshops in Suzhou/China!
+  - Özge Alacam, Sanne Hoeken, Andreas Säuberli, Hannes Gröner, Diego Frassinelli, Sina Zarrieß, and Barbara Plank, *Disentangling Subjectivity and Uncertainty for Hate Speech Annotation and Modeling using Gaze*, EMNLP (Main)
+  - Marc Felix Brinner and Sina Zarrieß, *SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts*, EMNLP (Main)
+  - Marc Felix Brinner, Tarek Al Mustafa, and Sina Zarrieß, *Enhancing Domain-Specific Encoder Models with LLM-Generated Data: How to Leverage Ontologies, and How to Do Without Them*, EMNLP (Findings)
+  - Raha Askari, Sina Zarrieß, Özge Alacam, and Judith Sieker, *Are BabyLMs Deaf to Gricean Maxims? A Pragmatic Evaluation of Sample-efficient Language Models*, BabyLM Workshop
+  - Francesca Padovani, Bastian Bunzeck, Manar Ali, Omar Momen, Arianna Bisazza, Hendrik Buschmeier, and Sina Zarrieß, *Dialogue Is Not Enough to Make a Communicative BabyLM (But Neither Is Developmentally Inspired Reinforcement Learning)*, BabyLM Workshop
 - We hosted **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
 - Jul/Aug '25: Judith and Clara presented their paper *LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High* (Judith Sieker, Clara Lachenmaier, Sina Zarrieß) at **CogSci 2025** in San Francisco!
 - Jul/Aug '25: We presented 10 papers at **ACL 2025** and adjacent workshops in Vienna!

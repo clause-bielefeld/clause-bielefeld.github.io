@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 ## Awards and accolades
+- Raha, Sina, Özge and Judith received an outstanding paper award at the [BabyLM Challenge & Workshop 2025](https://babylm.github.io/index.html) for their paper  [https://aclanthology.org/2025.babylm-main.4/](https://aclanthology.org/2025.babylm-main.4/)
 - Simeon & Sina received the best paper award at [INLG 2024](https://2024.inlgmeeting.org/awards.html) for their paper [https://aclanthology.org/2024.inlg-main.29/](https://aclanthology.org/2024.inlg-main.29/)
 
 ## Recent publications

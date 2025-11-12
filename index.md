@@ -24,7 +24,7 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 # News
 
-- Nov '25: We presented 5 papers at **EMNLP 2025** and co-located workshops in Suzhou/China! Our paper “Are BabyLMs Deaf to Gricean Maxims?” (BabyLM Workshop) received an Outstanding Paper Award!
+- Nov '25: We presented 5 papers at **EMNLP 2025** and co-located workshops in Suzhou/China. Our paper “Are BabyLMs Deaf to Gricean Maxims?” (BabyLM Workshop) received an Outstanding Paper Award!
   - Özge Alacam, Sanne Hoeken, Andreas Säuberli, Hannes Gröner, Diego Frassinelli, Sina Zarrieß, and Barbara Plank, *Disentangling Subjectivity and Uncertainty for Hate Speech Annotation and Modeling using Gaze*, EMNLP (Main)
   - Marc Felix Brinner and Sina Zarrieß, *SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts*, EMNLP (Main)
   - Marc Felix Brinner, Tarek Al Mustafa, and Sina Zarrieß, *Enhancing Domain-Specific Encoder Models with LLM-Generated Data: How to Leverage Ontologies, and How to Do Without Them*, EMNLP (Findings)

@@ -4,18 +4,76 @@ title: Projects
 permalink: /projects/
 ---
 
+# Upcoming
+
+#### FORESTS: Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures 
+
+* Project description: The central objective of this project is to develop a novel
+interdisciplinary approach that leverages language models (=LMs) as
+tools for cross-linguistic research and linguistic theories as tools for
+systemically assessing LMs' robustness. For this goal, we
+operationalize linguistic theories to assess how robust an LM’s
+“holistic” syntactic knowledge is, by moving from evaluation on single
+phenomena to systemic assessments of networks of formally-related
+structures (=FORESTs). FORESTs are a network of abstract
+structures that share underlying syntactic properties within languages
+and/or across languages. For example `Who does Peter like _ best?'
+and `What do you think that Mary bought _?' share the dependency of
+a filler `Who/What' to a gap (_) but differ with respect to the presence
+of embedding. We use such networks of frequent and grammatical
+filler-gap dependencies and compare them to infrequent and
+ungrammatical island-configurations as well as infrequent but
+grammatical parasitic gap constructions like `Who did you kiss _
+without knowing _?', where an illicit gap in an island becomes wellformed
+due to a gap outside the island. Based on theoretically
+informed sets of FORESTs, we develop systemic assessment
+procedures that test for the presence of ``holistic'' syntactic
+knowledge in an LM. We further develop robustness scoring of these
+assessments for families of models that, in the next step, allow to test
+predictions of different theoretical analyses of parasitic gaps. Current
+theoretical analyses of parasitic gap structures make different
+predictions as to which other structures are close members in a
+network of FORESTs. We use these differences in theories to
+compare results of acceptability judgments of parasitic gaps and
+related structures in humans with LMs' performance on these
+structures, by manipulating training data input to include different
+forests. We will first set up this procedure for a set of theoretically
+well-described FORESTs and languages. Our main goal is to connect
+LMs' assessments and cutting-edge cross-linguistic research,
+focusing on the theoretically challenging case of parasitic gaps.
+Bringing together theoretical linguistic knowledge and computational
+expertise in LMs, the project addresses the research questions of the
+Priority Programme LaSTing in various ways. First, the project
+contributes to robust assessment by designing benchmark materials
+in a more theory-driven and generalizable way, including a crosslinguistic
+perspective. Second, experiments that vary input, model
+size, and architecture will lead to a better understanding of the limits
+of syntax learning in LMs and their transferability to other languages.
+In the long run, these insights can contribute to making LMs more
+resource-efficient and sustainable. Finally, the project aims to conduct
+research on foundational questions regarding the explanatory power of LMs for linguistic theory building.
+* Funding: DFG, SPP 2556, [LasTing](https://www.lasting-spp.org/)
+* PIs: [Jutta Hartmann](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=184570689), [Anke Himmelreich](https://www.ankehimmelreich.de/), [Sina Zarrieß](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=51642361)
+
 # Ongoing
 
 #### CRC 1646: Linguistic Creativity in Communication
 * Check the [CRC website](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/) for CRC projects that our group is affiliated with
 * Funding: DFG
 
-
 #### SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)
 * Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
 * Funding: MKW NRW
 
-#### INAS (since 2022)
+#### LLM4KMU: Optimierter Einsatz von Open Source Large Language Models in KMU (since 2025)
+* Check the [LLM4KMU website](https://llm4kmu.de/)
+* Funding: Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW 
+
+
+# Finished
+
+
+#### INAS (2022-2025)
 
 * Title: *Interactive Argumentation Support in the Invasion Biology Domain*
 * Project description: Developing a good, new argument is not an easy task.
@@ -25,8 +83,6 @@ In scientific argumentation, a carefully developed and thought-through hypothesi
 Thus, an initial hypothesis needs to be specific enough that a researcher can test it based on data, but, at the same time, it should also relate to and extend previous general claims made in the community. In this project, we investigate how argumentation machines can (i) represent concrete and more abstract knowledge on hypotheses and their underlying concepts, (ii) automatically compute semantic relations between hypotheses made in scientific publications, and between hypotheses and datasets, and (iii) interactively support a user in developing her own hypothesis based on these resources. This project will thus combine methods from different disciplines: natural language processing, knowledge representation and semantic web and -- as an example for a scientific domain -- invasion biology.
 * Funding: DFG, RATIO SPP
 * PIs: Sina Zarrieß, Tina Heger, Birgitta König-Ries
-
-# Finished
 
 #### NLP4VIS (Nov 2020 - Oct 2023)
 

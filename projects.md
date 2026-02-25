@@ -8,7 +8,7 @@ permalink: /projects/
 
 #### FORESTS: Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures 
 
-* Funding: DFG, SPP 2556, [LasTing](https://www.lasting-spp.org/)
+* Funding: DFG, SPP 2556, [LaSTing](https://www.lasting-spp.org/)
 * PIs: [Jutta Hartmann](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=184570689), [Anke Himmelreich](https://www.ankehimmelreich.de/), [Sina Zarrieß](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=51642361)
 * Project description: The central objective of this project is to develop a novel
 interdisciplinary approach that leverages language models (=LMs) as
@@ -20,7 +20,7 @@ phenomena to systemic assessments of networks of formally-related
 structures (=FORESTs). FORESTs are a network of abstract
 structures that share underlying syntactic properties within languages
 and/or across languages. For example, 'Who does Peter like _ best?'
-and 'What do you think that Mary bought _?' share the dependency of
+and 'What do you think that Mary bought _ ?' share the dependency of
 a filler 'Who/What' to a gap (_) but differ with respect to the presence
 of embedding. We use such networks of frequent and grammatical
 filler-gap dependencies and compare them to infrequent and

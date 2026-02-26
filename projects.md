@@ -8,7 +8,7 @@ permalink: /projects/
 
 #### FORESTS: Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures 
 
-* Funding: DFG, SPP 2556, [LaSTing](https://www.lasting-spp.org/)
+* Funding: DFG, SPP 2556, [LaSTing](https://www.lasting-spp.org/) (final decision pending)
 * PIs: [Jutta Hartmann](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=184570689), [Anke Himmelreich](https://www.ankehimmelreich.de/), [Sina Zarrieß](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=51642361)
 * Project description: The central objective of this project is to develop a novel
 interdisciplinary approach that leverages language models (=LMs) as

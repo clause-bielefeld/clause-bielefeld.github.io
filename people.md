@@ -21,23 +21,6 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/oezge_alacam.jpg">
-  Özge Alaçam  
-  Post-doctoral Researcher  
-
-  __Office__: UHG C5-205  <br>
-  __Email__: oezge *dot* alacam *at* uni-bielefeld *dot* de  
-
-  __Interests__:
-  Multimodal Hate Speech Detection,  Extraction of Speaker Intention, Multimodal Communication (Language, graphical representations and gesture),
-  Human Computer Interaction, Eye-tracking methodology
-
-<br/><br/>
-
-______
-
-<br/><br/>
-
 <img style="float: right; width: 227px;" src="/assets/simeon.jpg">
 
   Simeon Junker (_né_ Simeon Schüz)<br>
@@ -167,9 +150,15 @@ ______
 
 ______
 
-**Student assistants**
+### Student assistants
 - Florian Steig
 - Hannes Gröner
 - Larissa Koch
 - Vicky Rupprecht
 - Laurens Winkler
+
+______
+
+### Alumni
+- Ronja Utescher
+- Özge Alaçam (now _Akademischer Rat_ at [CIS LMU](https://www.cis.uni-muenchen.de/personen/index.html))

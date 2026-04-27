@@ -111,7 +111,7 @@ ______
   __Office__: UHG C5-204 <br>
   __Email__: j *dot* sieker *at* uni-bielefeld *dot* de
 
-  __Interests__: I'm working on linguistically informed evaluation of language models, with a focus on their pragmatic competence. I’m especially interested in how models respond to communication breakdowns and subtle misalignments in shared understanding.
+  __Interests__: I'm working on linguistically informed evaluation of language models, with a focus on their pragmatic competence.
 
 <br/><br/>
 

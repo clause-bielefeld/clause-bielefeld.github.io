@@ -104,7 +104,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/judith_profile.jpeg">
+<img style="float: right; width: 227px;" src="/assets/judith.jpeg">
   Judith Sieker  
   Researcher  
 

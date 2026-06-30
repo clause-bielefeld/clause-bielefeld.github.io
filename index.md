@@ -29,10 +29,10 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
   - *[SemCSE-Multi: Multifaceted and Decodable Embeddings for Aspect-Specific and Interpretable Scientific Domain Mapping](https://aclanthology.org/2026.acl-long.1884/)*	(Marc Brinner, Sina Zarrieß),	ACL Main
   - *[How Hypocritical Is Your LLM judge? Listener-Speaker Asymmetries in the Pragmatic Competence of Large Language Models](https://aclanthology.org/2026.findings-acl.372/)* (Judith Sieker, Sina Zarrieß),	ACL Findings
   - *[Prompting Across Time: Evaluating LLMs on Historical and Contemporary Offensive Language](https://aclanthology.org/2026.findings-acl.1665/)* (Sanne Hoeken, Sophie Jasmin Spliethoff, Silke Schwandt, Özge Alacam, Sina Zarrieß), ACL Findings
-  - *Child-directed speech facilitates production, not comprehension, in BabyLMs*	(Bastian Bunzeck, Sina Zarrieß), CoNLL
-  - *CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions* (Francesca Padovani, Xiulin Yang, Bastian Bunzeck, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza),	CoNLL
-  - *The Frequency Confound in Language-Model Surprisal and Metaphor Novelty* (Omar Momen, Sina Zarrieß), *SEM
-  - *Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests* (Manar Ali, Judith Sieker, Sina Zarrieß, Hendrik Buschmeier), GEM Workshop
+  - *[Child-directed speech facilitates production, not comprehension, in BabyLMs](https://aclanthology.org/2026.conll-main.14/)*	(Bastian Bunzeck, Sina Zarrieß), CoNLL
+  - *[CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions](https://aclanthology.org/2026.conll-main.23/)* (Francesca Padovani, Xiulin Yang, Bastian Bunzeck, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza),	CoNLL
+  - *[The Frequency Confound in Language-Model Surprisal and Metaphor Novelty](https://aclanthology.org/2026.starsem-conference.31/)* (Omar Momen, Sina Zarrieß), *SEM
+  - *[Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests](https://aclanthology.org/2026.gem-main.76/)* (Manar Ali, Judith Sieker, Sina Zarrieß, Hendrik Buschmeier), GEM Workshop
 
 - Mar '26: We presented 2 papers at **EACL 2026** in Rabat/Morocco:
   -  **Omar Momen**, Emilie Sitter, Berenike Herrmann, **Sina Zarrieß**, *[Surprisal and Metaphor Novelty Judgments: Moderate Correlations and Divergent Scaling Effects Revealed by Corpus-Based and Synthetic Datasets](https://aclanthology.org/2026.eacl-long.378/)*, EACL (Main) 

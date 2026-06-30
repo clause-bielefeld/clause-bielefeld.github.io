@@ -25,10 +25,10 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 # News
 
 - Jul '26: We are presenting 8 papers at **ACL 2026** and workshops in San Diego/California:
-  - *Talking to a Know-It-All GPT or a Second-Guesser Claude? How Repair reveals distinct Multi-Turn Behavior in LLMs*	(Clara Lachenmaier, Hannah Bultmann, Sina Zarrieß), ACL Main
-  - *SemCSE-Multi: Multifaceted and Decodable Embeddings for Aspect-Specific and Interpretable Scientific Domain Mapping*	(Marc Brinner, Sina Zarrieß),	ACL Main
-  - *How Hypocritical Is Your LLM judge? Listener-Speaker Asymmetries in the Pragmatic Competence of Large Language Models* (Judith Sieker, Sina Zarrieß),	ACL Findings
-  - *Prompting Across Time: Evaluating LLMs on Historical and Contemporary Offensive Language* (Sanne Hoeken, Sophie Jasmin Spliethoff, Silke Schwandt, Özge Alacam, Sina Zarrieß), ACL Findings
+  - *[Talking to a Know-It-All GPT or a Second-Guesser Claude? How Repair reveals distinct Multi-Turn Behavior in LLMs](https://aclanthology.org/2026.acl-long.651/)*	(Clara Lachenmaier, Hannah Bultmann, Sina Zarrieß), ACL Main
+  - *[SemCSE-Multi: Multifaceted and Decodable Embeddings for Aspect-Specific and Interpretable Scientific Domain Mapping](https://aclanthology.org/2026.acl-long.1884/)*	(Marc Brinner, Sina Zarrieß),	ACL Main
+  - *[How Hypocritical Is Your LLM judge? Listener-Speaker Asymmetries in the Pragmatic Competence of Large Language Models](https://aclanthology.org/2026.findings-acl.372/)* (Judith Sieker, Sina Zarrieß),	ACL Findings
+  - *[Prompting Across Time: Evaluating LLMs on Historical and Contemporary Offensive Language](https://aclanthology.org/2026.findings-acl.1665/)* (Sanne Hoeken, Sophie Jasmin Spliethoff, Silke Schwandt, Özge Alacam, Sina Zarrieß), ACL Findings
   - *Child-directed speech facilitates production, not comprehension, in BabyLMs*	(Bastian Bunzeck, Sina Zarrieß), CoNLL
   - *CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions* (Francesca Padovani, Xiulin Yang, Bastian Bunzeck, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza),	CoNLL
   - *The Frequency Confound in Language-Model Surprisal and Metaphor Novelty* (Omar Momen, Sina Zarrieß), *SEM

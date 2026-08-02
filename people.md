@@ -36,24 +36,6 @@ ______
 
 <br/><br/>
 
-
-______
-
-<br/><br/>
-
-<img style="float: right; width: 227px;" src="/assets/henrik.jpg">
-  Henrik Voigt  
-  Researcher  
-
-  __Email__: henrik *dot* voigt *at* uni-jena *dot* de  
-
-  __Interests__:
-  I am working on modelling interactions between human beings and artificial agents in visually augmented and virtual environments.
-  My research interest focuses on combining the fields of Natural Langage Processing and Visualization through gamified user experiences
-  that leverage education, immersive analytics and visual storytelling.
-
-<br/><br/>
-
 ______
 
 <br/><br/>
@@ -82,21 +64,6 @@ ______
   __Email__: clara *dot* lachenmaier *at* uni-bielefeld *dot* de
 
   __Interests__: I am working on computational applications of Conversation Analysis.
-
-<br/><br/>
-
-______  
-
-<br/><br/>
-
-<img style="float: right; width: 227px;" src="/assets/Sanne_ProfilePicture.jpg">
-  Sanne Hoeken  
-  Researcher  
-
-  __Office__: UHG C5-204  <br>
-  __Email__: sanne *dot* hoeken *at* uni-bielefeld *dot* de
-
-  __Interests__: I work on longitudinal analysis of change and variety in natural language data as part of the [SAIL](<https://jaii.eu/sail/#r1.ling>) project.
 
 <br/><br/>
 
@@ -162,4 +129,6 @@ ______
 
 ### Alumni
 - Ronja Utescher
-- Özge Alaçam (now _Akademischer Rat_ at [CIS LMU](https://www.cis.uni-muenchen.de/personen/index.html))
+- Dr. Özge Alaçam (now _Akademischer Rat_ at [CIS LMU](https://www.cis.uni-muenchen.de/personen/index.html))
+- Dr. Henrik Voigt
+- Dr. Sanne Hoeken

@@ -24,7 +24,8 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 # News
 
-- Jul '26: We are presenting 8 papers at **ACL 2026** and workshops in San Diego/California:
+- Jul/Jun/Apr '26: Simeon, Henrik and Sanne have recently defended their PhD theses! Congratulations,  Glückwunsch and Gefeliciteerd to the new _doctores_!
+- Jul '26: We presented 8 papers at **ACL 2026** and workshops in San Diego/California:
   - *[Talking to a Know-It-All GPT or a Second-Guesser Claude? How Repair reveals distinct Multi-Turn Behavior in LLMs](https://aclanthology.org/2026.acl-long.651/)*	(Clara Lachenmaier, Hannah Bultmann, Sina Zarrieß), ACL Main
   - *[SemCSE-Multi: Multifaceted and Decodable Embeddings for Aspect-Specific and Interpretable Scientific Domain Mapping](https://aclanthology.org/2026.acl-long.1884/)*	(Marc Brinner, Sina Zarrieß),	ACL Main
   - *[How Hypocritical Is Your LLM judge? Listener-Speaker Asymmetries in the Pragmatic Competence of Large Language Models](https://aclanthology.org/2026.findings-acl.372/)* (Judith Sieker, Sina Zarrieß),	ACL Findings

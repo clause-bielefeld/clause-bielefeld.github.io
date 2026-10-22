@@ -24,7 +24,14 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 # News
 
-- Oct '26: We presented 2 papers at **INLG 2026** in Utrecht/ the Netherlands:
+- Oct '26: We will present four papers at **EMNLP 2026** and co-located workshops in Budapest, Hungary:
+  - Raha Askari, Judith Sieker, Valerio Basile, Sina Zarrieß: *Does Sensitivity to Pragmatic Norms Emerge with More Parameters, More Data, or More Conversations?* (EMNLP Main)
+  - Mandar Marathe, Manar Ali, Sara Nabhani, Raia Abu Ahmad, Ibrahim Baroud, Omar Momen: *AraMIP: Extending MIPVU Towards Metaphor Identification in Arabic* (ArabicNLP)
+  - Carl Hermany, Omar Momen, Sina Zarrieß: *Reproducing the Results, But Not the Interpretations: Evidence for Artifacts in Automatic Creativity Scoring with LLMs* (BlackboxNLP)
+  - Bastian Bunzeck, Francesca Padovani: *Synthetic Child-Directed Speech Is Not Developmentally Plausible* (BabyLM, non-archival)
+  - Sina will also give an invited talk at the GroundLM workshop: *Evaluation in the Face of Deceptively Fluent Models: Moving from Text to Interaction Quality*.
+
+- Oct '26: We presented 2 papers at **INLG 2026** in Utrecht/the Netherlands:
   - Simeon Junker, Manar Ali, Kristina Kobrock, Larissa Koch, Marika Sarzotti, Hendrik Buschmeier, Sina Zarrieß: *[Probing the Communicative Efficiency of LLMs via Content Selection in Visually Uncommon Reference Games](https://2026.inlgmeeting.org/static/proceedings/long/watermarked_pdfs/57.pdf)*
   - Manar Ali, Lisa Gottschalk, Simeon Junker, Lisa Hudalla, Alon Fishman, Joana Cholin, Stefan Kopp, Hendrik Buschmeier, Sina Zarrieß: *[Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli](https://arxiv.org/pdf/2610.27894)* (non-archival)
 - Jul/Jun/Apr '26: Simeon, Henrik and Sanne have recently defended their PhD theses! Congratulations,  Glückwunsch and Gefeliciteerd to the new _doctores_!

@@ -24,7 +24,7 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 # News
 
-- Oct '26: We will present four papers at **EMNLP 2026** and co-located workshops in Budapest, Hungary:
+- Oct '26: We will present 4 papers at **EMNLP 2026** and co-located workshops in Budapest, Hungary:
   - Raha Askari, Judith Sieker, Valerio Basile, Sina Zarrieß: *Does Sensitivity to Pragmatic Norms Emerge with More Parameters, More Data, or More Conversations?* (EMNLP Main)
   - Mandar Marathe, Manar Ali, Sara Nabhani, Raia Abu Ahmad, Ibrahim Baroud, Omar Momen: *AraMIP: Extending MIPVU Towards Metaphor Identification in Arabic* (ArabicNLP)
   - Carl Hermany, Omar Momen, Sina Zarrieß: *Reproducing the Results, But Not the Interpretations: Evidence for Artifacts in Automatic Creativity Scoring with LLMs* (BlackboxNLP)

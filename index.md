@@ -26,7 +26,7 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
 - Oct '26: We presented 2 papers at **INLG 2026** in Utrecht/ the Netherlands:
   - Simeon Junker, Manar Ali, Kristina Kobrock, Larissa Koch, Marika Sarzotti, Hendrik Buschmeier, Sina Zarrieß: *[Probing the Communicative Efficiency of LLMs via Content Selection in Visually Uncommon Reference Games](https://2026.inlgmeeting.org/static/proceedings/long/watermarked_pdfs/57.pdf)*
-  - Manar Ali ,Lisa Gottschalk, Simeon Junker, Lisa Hudalla, Alon Fishman, Joana Cholin, Stefan Kopp, Hendrik Buschmeier, Sina Zarrieß: *[Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli](https://arxiv.org/pdf/2610.27894)* (non-archival)
+  - Manar Ali, Lisa Gottschalk, Simeon Junker, Lisa Hudalla, Alon Fishman, Joana Cholin, Stefan Kopp, Hendrik Buschmeier, Sina Zarrieß: *[Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli](https://arxiv.org/pdf/2610.27894)* (non-archival)
 - Jul/Jun/Apr '26: Simeon, Henrik and Sanne have recently defended their PhD theses! Congratulations,  Glückwunsch and Gefeliciteerd to the new _doctores_!
 - Jul '26: We presented 8 papers at **ACL 2026** and workshops in San Diego/California:
   - *[Talking to a Know-It-All GPT or a Second-Guesser Claude? How Repair reveals distinct Multi-Turn Behavior in LLMs](https://aclanthology.org/2026.acl-long.651/)*	(Clara Lachenmaier, Hannah Bultmann, Sina Zarrieß), ACL Main
@@ -45,7 +45,7 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
   - Özge Alacam, Sanne Hoeken, Andreas Säuberli, Hannes Gröner, Diego Frassinelli, Sina Zarrieß, and Barbara Plank, *[Disentangling Subjectivity and Uncertainty for Hate Speech Annotation and Modeling using Gaze](https://aclanthology.org/2025.emnlp-main.1460/)*, EMNLP (Main)
   - Marc Felix Brinner and Sina Zarrieß, *[SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts](https://aclanthology.org/2025.emnlp-main.1662/)*, EMNLP (Main)
   - Marc Felix Brinner, Tarek Al Mustafa, and Sina Zarrieß, *[Enhancing Domain-Specific Encoder Models with LLM-Generated Data: How to Leverage Ontologies, and How to Do Without Them](https://aclanthology.org/2025.findings-emnlp.1238/)*, EMNLP (Findings)
-  - Raha Askari, Sina Zarrieß, Özge Alacam, and Judith Sieker, *[Are BabyLMs Deaf to Gricean Maxims? A Pragmatic Evaluation of Sample-efficient Language Models](https://aclanthology.org/2025.babylm-main.4/)*, BabyLM Workshop – We won an **Outstanding Paper Award**!
+  - Raha Askari, Sina Zarrieß, Özge Alacam, and Judith Sieker, *[Are BabyLMs Deaf to Gricean Maxims? A Pragmatic Evaluation of Sample-efficient Language Models](https://aclanthology.org/2025.babylm-main.4/)*, BabyLM Workshop – **Outstanding Paper Award**
   - Francesca Padovani, Bastian Bunzeck, Manar Ali, Omar Momen, Arianna Bisazza, Hendrik Buschmeier, and Sina Zarrieß, *[Dialogue Is Not Enough to Make a Communicative BabyLM (But Neither Is Developmentally Inspired Reinforcement Learning)](https://aclanthology.org/2025.babylm-main.29/)*, BabyLM Workshop
 - We hosted **[Bialogue 2025](https://semdial2025.github.io/)**, the *29th Workshop on the Semantics and Pragmatics of Dialogue*, in Bielefeld (September 3–5, 2025)
 - Jul/Aug '25: Judith and Clara presented their paper *[LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High](https://escholarship.org/uc/item/4932r1hx)* (Judith Sieker, Clara Lachenmaier, Sina Zarrieß**) at **CogSci 2025** in San Francisco!
